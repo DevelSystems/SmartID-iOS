@@ -10,8 +10,8 @@ import Security
 import Swift
 import UIKit
 public typealias Padding = Security.SecPadding
-@_hasMissingDesignatedInitializers final public class SmartId {
-  public static let shared: SmartId.SmartId
+@_hasMissingDesignatedInitializers final public class SmartIdClass {
+  public static let shared: SmartId.SmartIdClass
   public static func start(license: Swift.String, username: Swift.String, isProduction: Swift.Bool)
   public static func setSSLData(_ data: Swift.String)
   final public func link(channel: Swift.String, session: Swift.String)
