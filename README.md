@@ -17,5 +17,7 @@ You can now import SmartId framework into your files.
 
 ## Update
 
-If you're updating from previous version, you need to delete all the old references from Project configuration and the slices
-script as well. 
+- If you're updating from previous version, you need to delete all the old references from Project configuration and the slices
+script as well.
+
+- SmartId class was renamed to SID, so you need to update the references on your code base. 
