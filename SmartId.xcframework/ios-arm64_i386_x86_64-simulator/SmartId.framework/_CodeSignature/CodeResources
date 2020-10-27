@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		uK0m+UWXx0dJpQxAigTFMisYEHY=
+		+mo1pqbCasdAw+gc1HueSXRHquA=
 		</data>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vaXHYHfsW6V60KKDfXjShKmiiQY=
+		6w2RtafmnXvVIvBajOBgSvF54h0=
 		</data>
 		<key>Modules/SmartId.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/SmartId.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		vaXHYHfsW6V60KKDfXjShKmiiQY=
+		6w2RtafmnXvVIvBajOBgSvF54h0=
 		</data>
 		<key>Modules/SmartId.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/SmartId.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Afl+n5Syn7X/co1wL2ErCwbhetQ=
+		jDRHhdxEZh761q7RizdErInFIe4=
 		</data>
 		<key>Modules/SmartId.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Modules/SmartId.swiftmodule/i386.swiftmodule</key>
 		<data>
-		Afl+n5Syn7X/co1wL2ErCwbhetQ=
+		jDRHhdxEZh761q7RizdErInFIe4=
 		</data>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dNu1BPYpPVPGZEJxGw4PupBxJ94=
+		XIVARZTWaZ3bKVpGRJk85VlLG0M=
 		</data>
 		<key>Modules/SmartId.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Modules/SmartId.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		dNu1BPYpPVPGZEJxGw4PupBxJ94=
+		XIVARZTWaZ3bKVpGRJk85VlLG0M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -188,11 +188,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vaXHYHfsW6V60KKDfXjShKmiiQY=
+			6w2RtafmnXvVIvBajOBgSvF54h0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qb233NpstYK8Hf9pNFaedmkRrEHpxBieuPv430sqryA=
+			qJy+6e0t40pSEUKa9N/flIgPuX+erbs4uK1AQuE08V4=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/arm64.swiftdoc</key>
@@ -221,11 +221,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vaXHYHfsW6V60KKDfXjShKmiiQY=
+			6w2RtafmnXvVIvBajOBgSvF54h0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qb233NpstYK8Hf9pNFaedmkRrEHpxBieuPv430sqryA=
+			qJy+6e0t40pSEUKa9N/flIgPuX+erbs4uK1AQuE08V4=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -254,11 +254,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Afl+n5Syn7X/co1wL2ErCwbhetQ=
+			jDRHhdxEZh761q7RizdErInFIe4=
 			</data>
 			<key>hash2</key>
 			<data>
-			gW2s+9CFQPytKQmCh3zYEV8kZTGtO9ojMEgldd2kEjM=
+			CGi3HZYzjQP+XPidjPftisnTHZ19TI9aKLUAfFTWcDk=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/i386.swiftdoc</key>
@@ -287,11 +287,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Afl+n5Syn7X/co1wL2ErCwbhetQ=
+			jDRHhdxEZh761q7RizdErInFIe4=
 			</data>
 			<key>hash2</key>
 			<data>
-			gW2s+9CFQPytKQmCh3zYEV8kZTGtO9ojMEgldd2kEjM=
+			CGi3HZYzjQP+XPidjPftisnTHZ19TI9aKLUAfFTWcDk=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -320,11 +320,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dNu1BPYpPVPGZEJxGw4PupBxJ94=
+			XIVARZTWaZ3bKVpGRJk85VlLG0M=
 			</data>
 			<key>hash2</key>
 			<data>
-			cAwK/riOkpUH8ISTHYayrDczGz72Z5bcRzyzKAl1P2E=
+			+8ceQctLAUvmP8fWpwS5GVPmaklohXnOFkxbyE9jPCI=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/x86_64.swiftdoc</key>
@@ -353,11 +353,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dNu1BPYpPVPGZEJxGw4PupBxJ94=
+			XIVARZTWaZ3bKVpGRJk85VlLG0M=
 			</data>
 			<key>hash2</key>
 			<data>
-			cAwK/riOkpUH8ISTHYayrDczGz72Z5bcRzyzKAl1P2E=
+			+8ceQctLAUvmP8fWpwS5GVPmaklohXnOFkxbyE9jPCI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
