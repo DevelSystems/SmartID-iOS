@@ -9,7 +9,6 @@ let package = Package(
     products: [
         .library(
             name: "SmartId",
-            type: .dynamic,
             targets: ["SmartId"]),
     ],
     targets: [
