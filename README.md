@@ -15,6 +15,14 @@ https://github.com/DevelSystems/SmartID-iOS
 
 You can now import SmartId framework into your files.
 
+## Initialize location
+
+To initializate location services add this line to your AppDelegate `func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool` method.
+
+```bash
+SID.startLocation()
+```
+
 ## Update
 
 - If you're updating from previous version, you need to delete all the old references from Project configuration and the slices
