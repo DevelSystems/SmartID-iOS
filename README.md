@@ -23,6 +23,14 @@ To initializate location services add this line to your AppDelegate `func applic
 SID.startLocation()
 ```
 
+## Initialize pharming detection
+
+To initializate pharming detection, add this line to your AppDelegate `func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool` method.
+
+```bash
+SID.startPharming(isProduction: isProduction)
+```
+
 ## Update
 
 - If you're updating from previous version, you need to delete all the old references from Project configuration and the slices
