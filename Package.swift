@@ -19,8 +19,6 @@ let package = Package(
                 name: "SmartId",
                 path: "SmartId.xcframework"),
             .target(name: "SmartIdTargets",
-                    dependencies: [.target(name: "SmartId"),
-                                   .product(name: "KeychainAccess", package: "KeychainAccess")],
-                    path: nil)
+                    dependencies: ["KeychainAccess"])
         ]
 )
