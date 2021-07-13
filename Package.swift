@@ -17,6 +17,10 @@ let package = Package(
     targets: [
             .binaryTarget(
                 name: "SmartId",
-                path: "SmartId.xcframework")
+                path: "SmartId.xcframework"),
+            .target(name: "SmartIdTargets",
+                    dependencies: [.target(name: "SmartId"),
+                                   .product(name: "KeychainAccess", package: "KeychainAccess")],
+                    path: nil)
         ]
 )
