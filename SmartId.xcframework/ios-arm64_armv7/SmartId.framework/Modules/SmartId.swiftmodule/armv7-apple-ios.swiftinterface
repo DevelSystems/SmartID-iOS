@@ -23,7 +23,15 @@ public typealias Padding = Security.SecPadding
   final public func unlink(channel: Swift.String, session: Swift.String)
   final public func getDevice() -> Swift.String?
   final public func getDeviceInfo(channel: Swift.String, session: Swift.String) -> [Swift.String : Any]
+  final public func getDeviceData() -> SmartId.DeviceDataResponse
   final public func securePayment(channel: Swift.String, transactionType: Swift.String = "", amount: Swift.String, values: [Swift.String : Swift.String])
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class DeviceDataResponse {
+  public func setTimeout(timeout: Swift.Int) -> SmartId.DeviceDataResponse
+  public func onSuccess(success: @escaping (Swift.Int, Swift.String, Swift.Bool) -> Swift.Void) -> SmartId.DeviceDataResponse
+  public func onFailure(failure: @escaping (Swift.Int, Swift.String, Swift.String) -> Swift.Void) -> SmartId.DeviceDataResponse
+  public func start()
   @objc deinit
 }
 public func MD5(_ input: Swift.String) -> Swift.String
