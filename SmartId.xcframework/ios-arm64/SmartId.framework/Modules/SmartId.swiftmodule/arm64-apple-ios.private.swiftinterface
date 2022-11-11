@@ -27,12 +27,12 @@ public struct CoreOperation : Swift.Codable {
   public let transaction: SmartId.Transaction?
   public let account: SmartId.Account?
   public let accountTo: SmartId.Account?
-  public let debitFrom: SmartId.Account?
-  public let creditTo: SmartId.Account?
+  public let debitFrom: SmartId.BankAccount?
+  public let creditTo: SmartId.BankAccount?
   public let creditCard: SmartId.CreditCard?
   public let order: SmartId.Order?
   public let timestamp: Swift.String?
-  public init(channelId: Swift.String, device: SmartId.Device? = nil, transaction: SmartId.Transaction? = nil, account: SmartId.Account? = nil, accountTo: SmartId.Account? = nil, debitFrom: SmartId.Account? = nil, creditTo: SmartId.Account? = nil, creditCard: SmartId.CreditCard? = nil, order: SmartId.Order? = nil, timestamp: Swift.String? = nil)
+  public init(channelId: Swift.String, device: SmartId.Device? = nil, transaction: SmartId.Transaction? = nil, account: SmartId.Account? = nil, accountTo: SmartId.Account? = nil, debitFrom: SmartId.BankAccount? = nil, creditTo: SmartId.BankAccount? = nil, creditCard: SmartId.CreditCard? = nil, order: SmartId.Order? = nil, timestamp: Swift.String? = nil)
   public func encode(to encoder: Swift.Encoder) throws
   public init(from decoder: Swift.Decoder) throws
 }

@@ -614,21 +614,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "SmartId.Account?",
+                "printedName": "SmartId.BankAccount?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "Account",
-                    "printedName": "SmartId.Account",
-                    "usr": "s:7SmartId7AccountV"
+                    "name": "BankAccount",
+                    "printedName": "SmartId.BankAccount",
+                    "usr": "s:7SmartId11BankAccountV"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Var",
-            "usr": "s:7SmartId13CoreOperationV9debitFromAA7AccountVSgvp",
-            "mangledName": "$s7SmartId13CoreOperationV9debitFromAA7AccountVSgvp",
+            "usr": "s:7SmartId13CoreOperationV9debitFromAA11BankAccountVSgvp",
+            "mangledName": "$s7SmartId13CoreOperationV9debitFromAA11BankAccountVSgvp",
             "moduleName": "SmartId",
             "declAttributes": [
               "HasStorage",
@@ -645,21 +645,21 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "SmartId.Account?",
+                    "printedName": "SmartId.BankAccount?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "Account",
-                        "printedName": "SmartId.Account",
-                        "usr": "s:7SmartId7AccountV"
+                        "name": "BankAccount",
+                        "printedName": "SmartId.BankAccount",
+                        "usr": "s:7SmartId11BankAccountV"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:7SmartId13CoreOperationV9debitFromAA7AccountVSgvg",
-                "mangledName": "$s7SmartId13CoreOperationV9debitFromAA7AccountVSgvg",
+                "usr": "s:7SmartId13CoreOperationV9debitFromAA11BankAccountVSgvg",
+                "mangledName": "$s7SmartId13CoreOperationV9debitFromAA11BankAccountVSgvg",
                 "moduleName": "SmartId",
                 "implicit": true,
                 "accessorKind": "get"
@@ -674,21 +674,21 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "SmartId.Account?",
+                "printedName": "SmartId.BankAccount?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "Account",
-                    "printedName": "SmartId.Account",
-                    "usr": "s:7SmartId7AccountV"
+                    "name": "BankAccount",
+                    "printedName": "SmartId.BankAccount",
+                    "usr": "s:7SmartId11BankAccountV"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Var",
-            "usr": "s:7SmartId13CoreOperationV8creditToAA7AccountVSgvp",
-            "mangledName": "$s7SmartId13CoreOperationV8creditToAA7AccountVSgvp",
+            "usr": "s:7SmartId13CoreOperationV8creditToAA11BankAccountVSgvp",
+            "mangledName": "$s7SmartId13CoreOperationV8creditToAA11BankAccountVSgvp",
             "moduleName": "SmartId",
             "declAttributes": [
               "HasStorage",
@@ -705,21 +705,21 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "SmartId.Account?",
+                    "printedName": "SmartId.BankAccount?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "Account",
-                        "printedName": "SmartId.Account",
-                        "usr": "s:7SmartId7AccountV"
+                        "name": "BankAccount",
+                        "printedName": "SmartId.BankAccount",
+                        "usr": "s:7SmartId11BankAccountV"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:7SmartId13CoreOperationV8creditToAA7AccountVSgvg",
-                "mangledName": "$s7SmartId13CoreOperationV8creditToAA7AccountVSgvg",
+                "usr": "s:7SmartId13CoreOperationV8creditToAA11BankAccountVSgvg",
+                "mangledName": "$s7SmartId13CoreOperationV8creditToAA11BankAccountVSgvg",
                 "moduleName": "SmartId",
                 "implicit": true,
                 "accessorKind": "get"
@@ -986,13 +986,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "SmartId.Account?",
+                "printedName": "SmartId.BankAccount?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "Account",
-                    "printedName": "SmartId.Account",
-                    "usr": "s:7SmartId7AccountV"
+                    "name": "BankAccount",
+                    "printedName": "SmartId.BankAccount",
+                    "usr": "s:7SmartId11BankAccountV"
                   }
                 ],
                 "hasDefaultArg": true,
@@ -1001,13 +1001,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "SmartId.Account?",
+                "printedName": "SmartId.BankAccount?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "Account",
-                    "printedName": "SmartId.Account",
-                    "usr": "s:7SmartId7AccountV"
+                    "name": "BankAccount",
+                    "printedName": "SmartId.BankAccount",
+                    "usr": "s:7SmartId11BankAccountV"
                   }
                 ],
                 "hasDefaultArg": true,
@@ -1060,8 +1060,8 @@
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:7SmartId13CoreOperationV07channelB06device11transaction7account0H2To9debitFrom06creditI00L4Card5order9timestampACSS_AA6DeviceVSgAA11TransactionVSgAA7AccountVSgA3vA06CreditM0VSgAA5OrderVSgSSSgtcfc",
-            "mangledName": "$s7SmartId13CoreOperationV07channelB06device11transaction7account0H2To9debitFrom06creditI00L4Card5order9timestampACSS_AA6DeviceVSgAA11TransactionVSgAA7AccountVSgA3vA06CreditM0VSgAA5OrderVSgSSSgtcfc",
+            "usr": "s:7SmartId13CoreOperationV07channelB06device11transaction7account0H2To9debitFrom06creditI00L4Card5order9timestampACSS_AA6DeviceVSgAA11TransactionVSgAA7AccountVSgAvA04BankR0VSgAyA06CreditM0VSgAA5OrderVSgSSSgtcfc",
+            "mangledName": "$s7SmartId13CoreOperationV07channelB06device11transaction7account0H2To9debitFrom06creditI00L4Card5order9timestampACSS_AA6DeviceVSgAA11TransactionVSgAA7AccountVSgAvA04BankR0VSgAyA06CreditM0VSgAA5OrderVSgSSSgtcfc",
             "moduleName": "SmartId",
             "declAttributes": [
               "AccessControl"
@@ -4349,62 +4349,62 @@
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
       "offset": 552,
-      "length": 51,
+      "length": 44,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 592,
+      "offset": 585,
       "length": 1,
       "value": "\"\/s\/app\/api\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 640,
-      "length": 55,
+      "offset": 633,
+      "length": 48,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 680,
+      "offset": 666,
       "length": 1,
       "value": "\"\/s\/app\/api-dev\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 863,
+      "offset": 849,
       "length": 14,
       "value": "\"isProduction\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 933,
+      "offset": 919,
       "length": 45,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 973,
+      "offset": 959,
       "length": 1,
       "value": "\"\/api\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 1015,
+      "offset": 1001,
       "length": 49,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 1055,
+      "offset": 1041,
       "length": 1,
       "value": "\"\/api-dev\""
     },
