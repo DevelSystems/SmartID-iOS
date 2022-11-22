@@ -6,6 +6,6 @@ framework module SmartId {
 }
 
 module SmartId.Swift {
-    header "SmartId-Swift.h"
-    requires objc
+  header "SmartId-Swift.h"
+  requires objc
 }
