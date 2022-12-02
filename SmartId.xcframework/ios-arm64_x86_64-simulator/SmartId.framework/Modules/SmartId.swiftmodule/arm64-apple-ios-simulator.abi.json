@@ -4040,21 +4040,21 @@
     {
       "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 3797,
+      "offset": 3792,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 3817,
+      "offset": 3812,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 6804,
+      "offset": 6799,
       "length": 2,
       "value": "\"\""
     },
@@ -4349,62 +4349,62 @@
       "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
       "offset": 552,
-      "length": 44,
+      "length": 39,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 585,
+      "offset": 580,
       "length": 1,
       "value": "\"\/s\/app\/api\""
     },
     {
       "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 633,
-      "length": 48,
+      "offset": 628,
+      "length": 43,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 666,
+      "offset": 656,
       "length": 1,
       "value": "\"\/s\/app\/api-dev\""
     },
     {
       "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 849,
+      "offset": 839,
       "length": 14,
       "value": "\"isProduction\""
     },
     {
       "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 919,
-      "length": 38,
+      "offset": 909,
+      "length": 33,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 952,
+      "offset": 937,
       "length": 1,
       "value": "\"\/api\""
     },
     {
       "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 994,
-      "length": 42,
+      "offset": 979,
+      "length": 37,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 1027,
+      "offset": 1007,
       "length": 1,
       "value": "\"\/api-dev\""
     },
