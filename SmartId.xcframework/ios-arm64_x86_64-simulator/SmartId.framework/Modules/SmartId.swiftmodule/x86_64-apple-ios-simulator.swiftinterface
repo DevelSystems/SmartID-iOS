@@ -57,6 +57,7 @@ public struct Account : Swift.Codable {
   public let accountNumber: Swift.String
   public let bank: Swift.String
   public init(client: Swift.String, clientRefId: Swift.Int, clientRefIdStr: Swift.String, email: Swift.String, phoneNumber: Swift.String, session: Swift.String, accountNumber: Swift.String, bank: Swift.String)
+  public mutating func validte()
   public func encode(to encoder: Swift.Encoder) throws
   public init(from decoder: Swift.Decoder) throws
 }

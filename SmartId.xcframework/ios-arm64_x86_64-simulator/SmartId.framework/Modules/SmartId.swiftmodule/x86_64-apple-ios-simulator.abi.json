@@ -2083,6 +2083,27 @@
             "init_kind": "Designated"
           },
           {
+            "kind": "Function",
+            "name": "validte",
+            "printedName": "validte()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7SmartId7AccountV7validteyyF",
+            "mangledName": "$s7SmartId7AccountV7validteyyF",
+            "moduleName": "SmartId",
+            "declAttributes": [
+              "Mutating",
+              "AccessControl"
+            ],
+            "funcSelfKind": "Mutating"
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(from:)",
@@ -4063,6 +4084,13 @@
       "offset": 452,
       "length": 14,
       "value": "\"isProduction\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Model\/Account.swift",
+      "kind": "BooleanLiteral",
+      "offset": 218,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA.swift",
