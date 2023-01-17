@@ -48,7 +48,7 @@ public struct Transaction : Swift.Codable {
   public init(from decoder: Swift.Decoder) throws
 }
 public struct Account : Swift.Codable {
-  public let client: Swift.String
+  public var client: Swift.String
   public let clientRefId: Swift.Int
   public let clientRefIdStr: Swift.String
   public let email: Swift.String
