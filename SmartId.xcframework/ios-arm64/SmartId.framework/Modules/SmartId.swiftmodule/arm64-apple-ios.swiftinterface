@@ -25,7 +25,7 @@ public struct CoreOperation : Swift.Codable {
   public let channelId: Swift.String
   public var device: SmartId.Device?
   public let transaction: SmartId.Transaction?
-  public let account: SmartId.Account?
+  public var account: SmartId.Account?
   public let accountTo: SmartId.Account?
   public let debitFrom: SmartId.BankAccount?
   public let creditTo: SmartId.BankAccount?
