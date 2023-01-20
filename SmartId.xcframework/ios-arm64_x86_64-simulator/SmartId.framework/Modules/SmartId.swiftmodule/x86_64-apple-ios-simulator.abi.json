@@ -511,10 +511,10 @@
             "mangledName": "$s7SmartId13CoreOperationV7accountAA7AccountVSgvp",
             "moduleName": "SmartId",
             "declAttributes": [
-              "HasInitialValue",
               "HasStorage",
               "AccessControl"
             ],
+            "isLet": true,
             "hasStorage": true,
             "accessors": [
               {
@@ -543,56 +543,6 @@
                 "moduleName": "SmartId",
                 "implicit": true,
                 "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "SmartId.Account?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Account",
-                        "printedName": "SmartId.Account",
-                        "usr": "s:7SmartId7AccountV"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:7SmartId13CoreOperationV7accountAA7AccountVSgvs",
-                "mangledName": "$s7SmartId13CoreOperationV7accountAA7AccountVSgvs",
-                "moduleName": "SmartId",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:7SmartId13CoreOperationV7accountAA7AccountVSgvM",
-                "mangledName": "$s7SmartId13CoreOperationV7accountAA7AccountVSgvM",
-                "moduleName": "SmartId",
-                "implicit": true,
-                "accessorKind": "_modify"
               }
             ]
           },
@@ -2131,27 +2081,6 @@
               "AccessControl"
             ],
             "init_kind": "Designated"
-          },
-          {
-            "kind": "Function",
-            "name": "isEncryptedClient",
-            "printedName": "isEncryptedClient()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:7SmartId7AccountV17isEncryptedClientSbyF",
-            "mangledName": "$s7SmartId7AccountV17isEncryptedClientSbyF",
-            "moduleName": "SmartId",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
           },
           {
             "kind": "Constructor",
@@ -4134,13 +4063,6 @@
       "offset": 452,
       "length": 14,
       "value": "\"isProduction\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Model\/Account.swift",
-      "kind": "BooleanLiteral",
-      "offset": 218,
-      "length": 5,
-      "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA.swift",
