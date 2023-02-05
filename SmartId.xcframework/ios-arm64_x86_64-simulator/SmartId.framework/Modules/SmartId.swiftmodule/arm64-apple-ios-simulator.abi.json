@@ -3870,1155 +3870,1155 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
       "offset": 276,
       "length": 10,
       "value": "\"\/payment\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
       "offset": 573,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
       "offset": 1696,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
       "offset": 3034,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 195,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 217,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 238,
       "length": 5,
       "value": "\"PUT\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 262,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 195,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 217,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 238,
       "length": 5,
       "value": "\"PUT\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 262,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 377,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 442,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 511,
       "length": 16,
       "value": "\"Content-Length\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 736,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 286,
       "length": 14,
       "value": "\"SmartId.NetworkRequest\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartCoreRemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartCoreRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 280,
       "length": 14,
       "value": "\"\/v2\/sid\/core\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdController.swift",
       "kind": "StringLiteral",
       "offset": 1563,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdController.swift",
       "kind": "StringLiteral",
       "offset": 1601,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdController.swift",
       "kind": "StringLiteral",
       "offset": 3083,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Service\/UserPreferencesService.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Service\/UserPreferencesService.swift",
       "kind": "StringLiteral",
       "offset": 452,
       "length": 14,
       "value": "\"isProduction\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA.swift",
       "kind": "BooleanLiteral",
       "offset": 4731,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/UnlinkRemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/UnlinkRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 273,
       "length": 9,
       "value": "\"\/unlink\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 3792,
+      "offset": 3797,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 3812,
+      "offset": 3817,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 6799,
+      "offset": 6804,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Service\/KeychainService.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Service\/KeychainService.swift",
       "kind": "StringLiteral",
       "offset": 258,
       "length": 40,
       "value": "\"udid_\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Service\/KeychainService.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Service\/KeychainService.swift",
       "kind": "StringLiteral",
       "offset": 297,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 926,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 955,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 981,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1013,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1044,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1072,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1103,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1132,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1160,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1188,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1216,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1248,
       "length": 12,
       "value": "\"SmartPhone\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1291,
       "length": 7,
       "value": "\"Apple\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1329,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1365,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 1395,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 1426,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 1461,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 1496,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1528,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1561,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1594,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1630,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1662,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1694,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 1723,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 1757,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 1787,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1825,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 1849,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1875,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1914,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1951,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1985,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 2029,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 2070,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 2107,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 2349,
       "length": 4,
       "value": "1000"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
       "offset": 482,
       "length": 14,
       "value": "\"isProduction\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
       "offset": 552,
-      "length": 39,
+      "length": 44,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 580,
+      "offset": 585,
       "length": 1,
       "value": "\"\/s\/app\/api\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 628,
-      "length": 43,
+      "offset": 633,
+      "length": 48,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 656,
+      "offset": 666,
       "length": 1,
       "value": "\"\/s\/app\/api-dev\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 839,
+      "offset": 849,
       "length": 14,
       "value": "\"isProduction\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 909,
-      "length": 33,
+      "offset": 919,
+      "length": 38,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 937,
+      "offset": 952,
       "length": 1,
       "value": "\"\/api\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 979,
-      "length": 37,
+      "offset": 994,
+      "length": 42,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 1007,
+      "offset": 1027,
       "length": 1,
       "value": "\"\/api-dev\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 365,
       "length": 9,
       "value": "\"version\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 406,
       "length": 8,
       "value": "\"device\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 447,
       "length": 9,
       "value": "\"network\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 485,
       "length": 5,
       "value": "\"ssl\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 523,
       "length": 9,
       "value": "\"address\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 560,
       "length": 4,
       "value": "\"is\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 600,
       "length": 11,
       "value": "\"interface\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 644,
       "length": 9,
       "value": "\"carrier\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 691,
       "length": 14,
       "value": "\"isJailBroken\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 733,
       "length": 4,
       "value": "\"os\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 767,
       "length": 6,
       "value": "\"type\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 801,
       "length": 4,
       "value": "\"ID\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 835,
       "length": 10,
       "value": "\"hashUUID\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 883,
       "length": 14,
       "value": "\"manufacturer\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 931,
       "length": 13,
       "value": "\"geoLocation\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 975,
       "length": 10,
       "value": "\"security\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1082,
       "length": 25,
       "value": "\"isMultitaskingSupported\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1137,
       "length": 6,
       "value": "\"name\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1179,
       "length": 12,
       "value": "\"systemName\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1230,
       "length": 15,
       "value": "\"systemVersion\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1278,
       "length": 9,
       "value": "\"version\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1318,
       "length": 7,
       "value": "\"model\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1365,
       "length": 16,
       "value": "\"localizedModel\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1415,
       "length": 10,
       "value": "\"rawModel\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1470,
       "length": 6,
       "value": "\"UUID\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1513,
       "length": 18,
       "value": "\"isDeviceFaceDown\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1569,
       "length": 14,
       "value": "\"batteryLevel\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1621,
       "length": 14,
       "value": "\"batteryState\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1689,
       "length": 30,
       "value": "\"isProximityMonitoringEnabled\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1759,
       "length": 16,
       "value": "\"proximityState\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1805,
       "length": 9,
       "value": "\"version\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1849,
       "length": 14,
       "value": "\"versionBuild\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1960,
       "length": 15,
       "value": "\"interfaceName\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2007,
       "length": 8,
       "value": "\"family\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2043,
       "length": 4,
       "value": "\"ip\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2079,
       "length": 8,
       "value": "\"public\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2118,
       "length": 7,
       "value": "\"local\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2204,
       "length": 6,
       "value": "\"name\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2243,
       "length": 9,
       "value": "\"country\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2282,
       "length": 6,
       "value": "\"code\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2321,
       "length": 9,
       "value": "\"network\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2366,
       "length": 12,
       "value": "\"allowsVoIP\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2460,
       "length": 9,
       "value": "\"proxied\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2498,
       "length": 5,
       "value": "\"tor\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2580,
       "length": 4,
       "value": "\"is\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2624,
       "length": 16,
       "value": "\"inTwoTimezones\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2672,
       "length": 8,
       "value": "\"region\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2713,
       "length": 9,
       "value": "\"country\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2752,
       "length": 6,
       "value": "\"city\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2790,
       "length": 8,
       "value": "\"postal\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2833,
       "length": 11,
       "value": "\"continent\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2878,
       "length": 10,
       "value": "\"timezone\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2916,
       "length": 4,
       "value": "\"ip\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2957,
       "length": 13,
       "value": "\"coordinates\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 3010,
       "length": 16,
       "value": "\"ISOCountryCode\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 3103,
       "length": 10,
       "value": "\"remoteIP\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 3148,
       "length": 14,
       "value": "\"certificates\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/LinkRemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/LinkRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 269,
       "length": 7,
       "value": "\"\/link\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftHash\/MD5.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftHash\/MD5.swift",
       "kind": "IntegerLiteral",
       "offset": 8947,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/Asn1Parser.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/Asn1Parser.swift",
       "kind": "IntegerLiteral",
       "offset": 380,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 271,
       "length": 11,
       "value": "\"\/tracking\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 497,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 517,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 1133,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 1153,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 1959,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 1979,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/PublicKey.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/PublicKey.swift",
       "kind": "StringLiteral",
       "offset": 2213,
       "length": 57,
       "value": "\"(-----BEGIN PUBLIC KEY-----.+?-----END PUBLIC KEY-----)\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/NetUtils\/Interface.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/NetUtils\/Interface.swift",
       "kind": "IntegerLiteral",
       "offset": 729,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/NetUtils\/Interface.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/NetUtils\/Interface.swift",
       "kind": "IntegerLiteral",
       "offset": 792,
       "length": 5,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/NetUtils\/Interface.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/NetUtils\/Interface.swift",
       "kind": "IntegerLiteral",
       "offset": 729,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/NetUtils\/Interface.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/NetUtils\/Interface.swift",
       "kind": "IntegerLiteral",
       "offset": 792,
       "length": 5,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/NetUtils\/Interface.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/NetUtils\/Interface.swift",
       "kind": "IntegerLiteral",
       "offset": 729,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/NetUtils\/Interface.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/NetUtils\/Interface.swift",
       "kind": "IntegerLiteral",
       "offset": 792,
       "length": 5,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "StringLiteral",
       "offset": 810,
       "length": 15,
       "value": "\"SmartId._objc_PublicKey\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "StringLiteral",
       "offset": 2588,
       "length": 16,
       "value": "\"SmartId._objc_PrivateKey\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "StringLiteral",
       "offset": 4196,
       "length": 24,
       "value": "\"SmartId._objc_VerificationResult\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "StringLiteral",
       "offset": 4436,
       "length": 18,
       "value": "\"SmartId._objc_ClearMessage\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "StringLiteral",
       "offset": 6513,
       "length": 22,
       "value": "\"SmartId._objc_EncryptedMessage\""
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "IntegerLiteral",
       "offset": 7651,
       "length": 6,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "IntegerLiteral",
       "offset": 7671,
       "length": 6,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "IntegerLiteral",
       "offset": 7691,
       "length": 6,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "IntegerLiteral",
       "offset": 7711,
       "length": 6,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "IntegerLiteral",
       "offset": 7651,
       "length": 6,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "IntegerLiteral",
       "offset": 7671,
       "length": 6,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "IntegerLiteral",
       "offset": 7691,
       "length": 6,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "IntegerLiteral",
       "offset": 7711,
       "length": 6,
       "value": "4"
     },
     {
-      "filePath": "\/Users\/lester\/Documents\/Developer\/Clientes\/DevelSystems\/SmartId_Framework\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/lester\/Documents\/Developer\/Carthage_Test\/Carthage\/Checkouts\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "StringLiteral",
       "offset": 7497,
       "length": 15,
