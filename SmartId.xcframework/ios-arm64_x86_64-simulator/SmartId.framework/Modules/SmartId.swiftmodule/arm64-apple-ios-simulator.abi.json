@@ -4131,21 +4131,21 @@
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 3799,
+      "offset": 3803,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 3819,
+      "offset": 3823,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 6806,
+      "offset": 6810,
       "length": 2,
       "value": "\"\""
     },
@@ -4440,62 +4440,62 @@
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
       "offset": 552,
-      "length": 46,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
-      "kind": "StringLiteral",
-      "offset": 587,
-      "length": 1,
-      "value": "\"\/s\/app\/api\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
-      "kind": "StringLiteral",
-      "offset": 635,
       "length": 50,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 670,
+      "offset": 591,
+      "length": 1,
+      "value": "\"\/s\/app\/api\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "kind": "StringLiteral",
+      "offset": 639,
+      "length": 54,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "kind": "StringLiteral",
+      "offset": 678,
       "length": 1,
       "value": "\"\/s\/app\/api-dev\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 853,
+      "offset": 861,
       "length": 14,
       "value": "\"isProduction\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 923,
-      "length": 40,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
-      "kind": "StringLiteral",
-      "offset": 958,
-      "length": 1,
-      "value": "\"\/api\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
-      "kind": "StringLiteral",
-      "offset": 1000,
+      "offset": 931,
       "length": 44,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 1035,
+      "offset": 970,
+      "length": 1,
+      "value": "\"\/api\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "kind": "StringLiteral",
+      "offset": 1012,
+      "length": 48,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "kind": "StringLiteral",
+      "offset": 1051,
       "length": 1,
       "value": "\"\/api-dev\""
     },
