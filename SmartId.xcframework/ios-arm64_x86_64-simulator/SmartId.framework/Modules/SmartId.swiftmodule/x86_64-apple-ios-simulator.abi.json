@@ -511,10 +511,10 @@
             "mangledName": "$s7SmartId13CoreOperationV7accountAA7AccountVSgvp",
             "moduleName": "SmartId",
             "declAttributes": [
+              "HasInitialValue",
               "HasStorage",
               "AccessControl"
             ],
-            "isLet": true,
             "hasStorage": true,
             "accessors": [
               {
@@ -543,6 +543,56 @@
                 "moduleName": "SmartId",
                 "implicit": true,
                 "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "SmartId.Account?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Account",
+                        "printedName": "SmartId.Account",
+                        "usr": "s:7SmartId7AccountV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7SmartId13CoreOperationV7accountAA7AccountVSgvs",
+                "mangledName": "$s7SmartId13CoreOperationV7accountAA7AccountVSgvs",
+                "moduleName": "SmartId",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7SmartId13CoreOperationV7accountAA7AccountVSgvM",
+                "mangledName": "$s7SmartId13CoreOperationV7accountAA7AccountVSgvM",
+                "moduleName": "SmartId",
+                "implicit": true,
+                "accessorKind": "_modify"
               }
             ]
           },
@@ -1640,7 +1690,6 @@
               "HasStorage",
               "AccessControl"
             ],
-            "isLet": true,
             "hasStorage": true,
             "accessors": [
               {
@@ -1661,6 +1710,48 @@
                 "moduleName": "SmartId",
                 "implicit": true,
                 "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7SmartId7AccountV6clientSSvs",
+                "mangledName": "$s7SmartId7AccountV6clientSSvs",
+                "moduleName": "SmartId",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:7SmartId7AccountV6clientSSvM",
+                "mangledName": "$s7SmartId7AccountV6clientSSvM",
+                "moduleName": "SmartId",
+                "implicit": true,
+                "accessorKind": "_modify"
               }
             ]
           },
@@ -4349,62 +4440,62 @@
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
       "offset": 552,
-      "length": 44,
+      "length": 51,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 585,
+      "offset": 592,
       "length": 1,
       "value": "\"\/s\/app\/api\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 633,
-      "length": 48,
+      "offset": 640,
+      "length": 55,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 666,
+      "offset": 680,
       "length": 1,
       "value": "\"\/s\/app\/api-dev\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 849,
+      "offset": 863,
       "length": 14,
       "value": "\"isProduction\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 919,
+      "offset": 933,
       "length": 45,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 959,
+      "offset": 973,
       "length": 1,
       "value": "\"\/api\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 1001,
+      "offset": 1015,
       "length": 49,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smart-id\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 1041,
+      "offset": 1055,
       "length": 1,
       "value": "\"\/api-dev\""
     },
