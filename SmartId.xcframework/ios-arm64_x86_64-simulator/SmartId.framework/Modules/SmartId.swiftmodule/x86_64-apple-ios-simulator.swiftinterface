@@ -73,6 +73,7 @@ public typealias Padding = Security.SecPadding
   final public func getDevice() -> Swift.String?
   final public func getDeviceInfo(channel: Swift.String, session: Swift.String) -> [Swift.String : Any]
   final public func getDeviceData() -> SmartId.DeviceDataResponse
+  final public func getRawData() -> SmartId.RawDataResponse
   final public func securePayment(channel: Swift.String, transactionType: Swift.String = "", amount: Swift.String, values: [Swift.String : Swift.String])
   final public func createOperation(channel: Swift.String, operation: SmartId.CoreOperation)
   @objc deinit
@@ -109,3 +110,9 @@ public struct Order : Swift.Codable {
   public init(from decoder: Swift.Decoder) throws
 }
 public func MD5(_ input: Swift.String) -> Swift.String
+@_hasMissingDesignatedInitializers public class RawDataResponse {
+  public func onSuccess(success: @escaping (Swift.Int, Swift.String) -> Swift.Void) -> SmartId.RawDataResponse
+  public func onFailure(failure: @escaping (Swift.Int, Swift.String, Swift.String) -> Swift.Void) -> SmartId.RawDataResponse
+  public func start()
+  @objc deinit
+}
