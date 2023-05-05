@@ -2654,6 +2654,28 @@
           },
           {
             "kind": "Function",
+            "name": "getRawData",
+            "printedName": "getRawData()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "RawDataResponse",
+                "printedName": "SmartId.RawDataResponse",
+                "usr": "s:7SmartId15RawDataResponseC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7SmartId3SIDC10getRawDataAA0eF8ResponseCyF",
+            "mangledName": "$s7SmartId3SIDC10getRawDataAA0eF8ResponseCyF",
+            "moduleName": "SmartId",
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "securePayment",
             "printedName": "securePayment(channel:transactionType:amount:values:)",
             "children": [
@@ -3947,6 +3969,161 @@
         ]
       },
       {
+        "kind": "TypeDecl",
+        "name": "RawDataResponse",
+        "printedName": "RawDataResponse",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "onSuccess",
+            "printedName": "onSuccess(success:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "RawDataResponse",
+                "printedName": "SmartId.RawDataResponse",
+                "usr": "s:7SmartId15RawDataResponseC"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Int, Swift.String) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(Swift.Int, Swift.String)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7SmartId15RawDataResponseC9onSuccess7successACySi_SStc_tF",
+            "mangledName": "$s7SmartId15RawDataResponseC9onSuccess7successACySi_SStc_tF",
+            "moduleName": "SmartId",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onFailure",
+            "printedName": "onFailure(failure:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "RawDataResponse",
+                "printedName": "SmartId.RawDataResponse",
+                "usr": "s:7SmartId15RawDataResponseC"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Swift.Int, Swift.String, Swift.String) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Tuple",
+                    "printedName": "(Swift.Int, Swift.String, Swift.String)",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7SmartId15RawDataResponseC9onFailure7failureACySi_S2Stc_tF",
+            "mangledName": "$s7SmartId15RawDataResponseC9onFailure7failureACySi_S2Stc_tF",
+            "moduleName": "SmartId",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "start",
+            "printedName": "start()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7SmartId15RawDataResponseC5startyyF",
+            "mangledName": "$s7SmartId15RawDataResponseC5startyyF",
+            "moduleName": "SmartId",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:7SmartId15RawDataResponseC",
+        "mangledName": "$s7SmartId15RawDataResponseC",
+        "moduleName": "SmartId",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SmartId",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
@@ -4145,7 +4322,7 @@
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 6812,
+      "offset": 6928,
       "length": 2,
       "value": "\"\""
     },
