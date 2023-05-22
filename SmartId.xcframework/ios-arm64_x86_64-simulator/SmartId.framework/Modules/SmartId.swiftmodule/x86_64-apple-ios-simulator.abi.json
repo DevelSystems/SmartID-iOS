@@ -2361,47 +2361,6 @@
           },
           {
             "kind": "Function",
-            "name": "start",
-            "printedName": "start(license:username:isProduction:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:7SmartId3SIDC5start7license8username12isProductionySS_SSSbtFZ",
-            "mangledName": "$s7SmartId3SIDC5start7license8username12isProductionySS_SSSbtFZ",
-            "moduleName": "SmartId",
-            "static": true,
-            "declAttributes": [
-              "Final",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
             "name": "setSSLData",
             "printedName": "setSSLData(_:)",
             "children": [
@@ -2422,128 +2381,6 @@
             "mangledName": "$s7SmartId3SIDC10setSSLDatayySSFZ",
             "moduleName": "SmartId",
             "static": true,
-            "declAttributes": [
-              "Final",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "link",
-            "printedName": "link(channel:session:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:7SmartId3SIDC4link7channel7sessionySS_SStF",
-            "mangledName": "$s7SmartId3SIDC4link7channel7sessionySS_SStF",
-            "moduleName": "SmartId",
-            "declAttributes": [
-              "Final",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "tracking",
-            "printedName": "tracking(channel:session:action:transaction:value:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "hasDefaultArg": true,
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "hasDefaultArg": true,
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:7SmartId3SIDC8tracking7channel7session6action11transaction5valueySS_S4StF",
-            "mangledName": "$s7SmartId3SIDC8tracking7channel7session6action11transaction5valueySS_S4StF",
-            "moduleName": "SmartId",
-            "declAttributes": [
-              "Final",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "unlink",
-            "printedName": "unlink(channel:session:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:7SmartId3SIDC6unlink7channel7sessionySS_SStF",
-            "mangledName": "$s7SmartId3SIDC6unlink7channel7sessionySS_SStF",
-            "moduleName": "SmartId",
             "declAttributes": [
               "Final",
               "AccessControl",
@@ -2584,54 +2421,6 @@
           },
           {
             "kind": "Function",
-            "name": "getDeviceInfo",
-            "printedName": "getDeviceInfo(channel:session:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Dictionary",
-                "printedName": "[Swift.String : Any]",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ProtocolComposition",
-                    "printedName": "Any"
-                  }
-                ],
-                "usr": "s:SD"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:7SmartId3SIDC13getDeviceInfo7channel7sessionSDySSypGSS_SStF",
-            "mangledName": "$s7SmartId3SIDC13getDeviceInfo7channel7sessionSDySSypGSS_SStF",
-            "moduleName": "SmartId",
-            "declAttributes": [
-              "Final",
-              "AccessControl",
-              "RawDocComment"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
             "name": "getDeviceData",
             "printedName": "getDeviceData()",
             "children": [
@@ -2648,7 +2437,8 @@
             "moduleName": "SmartId",
             "declAttributes": [
               "Final",
-              "AccessControl"
+              "AccessControl",
+              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -4308,21 +4098,7 @@
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 3805,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
-      "kind": "StringLiteral",
-      "offset": 3825,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
-      "kind": "StringLiteral",
-      "offset": 6928,
+      "offset": 7020,
       "length": 2,
       "value": "\"\""
     },
