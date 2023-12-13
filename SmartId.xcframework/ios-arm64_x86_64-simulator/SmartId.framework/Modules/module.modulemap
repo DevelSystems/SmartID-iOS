@@ -1,7 +1,7 @@
 framework module SmartId {
   umbrella header "SmartId.h"
-
   export *
+
   module * { export * }
 }
 

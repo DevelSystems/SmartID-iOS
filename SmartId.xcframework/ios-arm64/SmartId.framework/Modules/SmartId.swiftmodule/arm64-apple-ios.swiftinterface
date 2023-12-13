@@ -1,25 +1,35 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
+// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)
 // swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SmartId
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import CoreLocation
 import CoreTelephony
 import Darwin
+import DeveloperToolsSupport
 import Foundation
 import KeychainAccess
 import Security
 @_exported import SmartId
 import Swift
+import SwiftUI
 import UIKit
 import _Concurrency
 import _StringProcessing
+import _SwiftConcurrencyShims
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class TransactionConfirmationView : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func loadView()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
 public struct BankAccount : Swift.Codable {
   public let account: Swift.String
   public let bank: Swift.String
   public let currency: Swift.String
   public init(account: Swift.String, bank: Swift.String, currency: Swift.String)
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }
 public struct CoreOperation : Swift.Codable {
   public let channelId: Swift.String
@@ -33,8 +43,8 @@ public struct CoreOperation : Swift.Codable {
   public let order: SmartId.Order?
   public let timestamp: Swift.String?
   public init(channelId: Swift.String, device: SmartId.Device? = nil, transaction: SmartId.Transaction? = nil, account: SmartId.Account? = nil, accountTo: SmartId.Account? = nil, debitFrom: SmartId.BankAccount? = nil, creditTo: SmartId.BankAccount? = nil, creditCard: SmartId.CreditCard? = nil, order: SmartId.Order? = nil, timestamp: Swift.String? = nil)
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }
 public struct Transaction : Swift.Codable {
   public let category: Swift.String
@@ -44,8 +54,8 @@ public struct Transaction : Swift.Codable {
   public let date: Swift.String?
   public let details: [Swift.String : Swift.String]
   public init(category: Swift.String, type: Swift.String, description: Swift.String, reference: Swift.String, date: Swift.String? = nil, details: [Swift.String : Swift.String])
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }
 public struct Account : Swift.Codable {
   public var client: Swift.String
@@ -57,14 +67,15 @@ public struct Account : Swift.Codable {
   public let accountNumber: Swift.String
   public let bank: Swift.String
   public init(client: Swift.String, clientRefId: Swift.Int, clientRefIdStr: Swift.String, email: Swift.String, phoneNumber: Swift.String, session: Swift.String, accountNumber: Swift.String, bank: Swift.String)
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }
 public typealias Padding = Security.SecPadding
 @_hasMissingDesignatedInitializers final public class SID {
+  final public func setup(window: UIKit.UIWindow?)
   public static let shared: SmartId.SID
   public static func startLocation()
-  public static func startPharming(isProduction: Swift.Bool)
+  public static func startPharming(applicationBackendDomain: Swift.String = "")
   public static func start(license: Swift.String, username: Swift.String, isProduction: Swift.Bool)
   public static func setSSLData(_ data: Swift.String)
   final public func link(channel: Swift.String, session: Swift.String)
@@ -76,6 +87,9 @@ public typealias Padding = Security.SecPadding
   final public func getRawData() -> SmartId.RawDataResponse
   final public func securePayment(channel: Swift.String, transactionType: Swift.String = "", amount: Swift.String, values: [Swift.String : Swift.String])
   final public func createOperation(channel: Swift.String, operation: SmartId.CoreOperation)
+  final public func readToken(from viewController: UIKit.UIViewController, tokenId: Swift.String, isProd: Swift.Bool)
+  final public func registerURLHandlingClosure(_ closure: @escaping (Foundation.URL) -> Swift.Void)
+  final public func handleIncomingURL(_ url: Foundation.URL)
   @objc deinit
 }
 public struct Device : Swift.Codable {
@@ -83,8 +97,11 @@ public struct Device : Swift.Codable {
   public let ipAddress: Swift.String?
   public let userAgent: Swift.String?
   public init(smartId: Swift.String, ipAddress: Swift.String? = nil, userAgent: Swift.String? = nil)
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct GetTransactionResponse : Swift.Decodable {
+  public init(from decoder: any Swift.Decoder) throws
 }
 @_hasMissingDesignatedInitializers public class DeviceDataResponse {
   public func setTimeout(timeout: Swift.Int) -> SmartId.DeviceDataResponse
@@ -99,20 +116,40 @@ public struct CreditCard : Swift.Codable {
   public let last4Digits: Swift.String
   public let token: Swift.String
   public init(bin: Swift.String, hash: Swift.String, last4Digits: Swift.String, token: Swift.String)
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
 }
 public struct Order : Swift.Codable {
   public let amount: Foundation.Decimal
   public let currency: Swift.String
   public init(amount: Foundation.Decimal, currency: Swift.String)
-  public func encode(to encoder: Swift.Encoder) throws
-  public init(from decoder: Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+@_hasMissingDesignatedInitializers final public class UriManagement {
+  public static let shared: SmartId.UriManagement
+  final public func getTransaction(getTransactionRequest: SmartId.GetTransactionRequest, getTransactionResponse: @escaping (SmartId.GetTransactionResponse) -> Swift.Void)
+  final public func manageTransaction(manageTransactionRequest: SmartId.ManageTransactionRequest, manageTransactionResponse: @escaping (SmartId.GetTransactionResponse) -> Swift.Void)
+  @objc deinit
 }
 public func MD5(_ input: Swift.String) -> Swift.String
+public struct GetTransactionRequest : Swift.Codable {
+  public init(linkId: Swift.String, smartId: Swift.String, language: Swift.String)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
 @_hasMissingDesignatedInitializers public class RawDataResponse {
   public func onSuccess(success: @escaping (Swift.Int, Swift.String) -> Swift.Void) -> SmartId.RawDataResponse
   public func onFailure(failure: @escaping (Swift.Int, Swift.String, Swift.String) -> Swift.Void) -> SmartId.RawDataResponse
   public func start()
+  @objc deinit
+}
+public struct ManageTransactionRequest : Swift.Codable {
+  public init(transactionStatus: Swift.Int, transactionCode: Swift.String, smartId: Swift.String, geolocation: Swift.String, photoB64: Swift.String)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+@objc @_inheritsConvenienceInitializers open class RSAUtils : ObjectiveC.NSObject {
+  @objc override dynamic public init()
   @objc deinit
 }
