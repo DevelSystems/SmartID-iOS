@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		li/ayYq6AEAGxXRlVlrqfGgQVrk=
+		Z0jvkheUcEUph0Ujs+5eM7foAy4=
 		</data>
 		<key>Headers/DTTJailbreakDetection.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LtnI2fXIqBEjYGX5LKjG1Jv589Y=
+		g4yVQpAE91XgbyyW4FTmrympArA=
 		</data>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Lz4aUV02vSbhbE1fTuc1/95oPq0=
+		Y/J8USBoIzy2UctK+irtmlpE+w8=
 		</data>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		i17dfWL13DUHbR+D0oCGdhGnsOY=
+		HdWpD/huMdMtNc9aI0ltmszNCss=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -101,7 +101,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			X6ChtAkF78VE0Ue8Bb5G5lCoq1Vmk+QuHOOVQRZcVRc=
+			RvLFTgqHADKCOxOGGymoFh2fwYUyN+LNV6V+aXRMK54=
 			</data>
 		</dict>
 		<key>Headers/DTTJailbreakDetection.h</key>
@@ -171,7 +171,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0rtr+2S+tqEXabS3TCg6WpJYu4ceP8oCLc87oascU9E=
+			SBhwBSq86jBJ3Na7wNVMCb/IcIOIEWmKywcjkKuDTUU=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -206,7 +206,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/rbNU9RH7+3Sb3NY1NoyY2rt1ahLWubRhz8KLja77GE=
+			dKKme9cuB0+8344RK1lzffCvHcSQwIZecYStd5xCWUU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
