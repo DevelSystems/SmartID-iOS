@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Assets.car</key>
-		<data>
-		Z0jvkheUcEUph0Ujs+5eM7foAy4=
-		</data>
 		<key>Headers/DTTJailbreakDetection.h</key>
 		<data>
 		/aHjzhFd5Xo2PiJaW5rbFfssi4M=
@@ -18,7 +14,7 @@
 		</data>
 		<key>Headers/SmartId-Swift.h</key>
 		<data>
-		xCcwQIoHIQujkwcrcebuKMgwPFk=
+		1OzKemA4af9G6zqoF+TU6DonlHU=
 		</data>
 		<key>Headers/SmartId.h</key>
 		<data>
@@ -30,80 +26,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		g4yVQpAE91XgbyyW4FTmrympArA=
+		PJFzhX9pBuEcu5VIRqiei4RzihQ=
 		</data>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		z3xtIFaIcUlyFUksa52Q+huIB7s=
+		gAsTtOnp6KuF3WBHS/9HoOciHGM=
 		</data>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		bHEIGvOq7SFBktxDMU8jSNPtUQk=
+		/aqZE5JnX9lupsn9B18RuTc33Ug=
 		</data>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		RiETf0QJ1gp0E5pvlr+kVb+VZ8M=
+		Bgux/tVD3ZAVyyEg2I8Pg5Wn2/U=
 		</data>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		bHEIGvOq7SFBktxDMU8jSNPtUQk=
+		/aqZE5JnX9lupsn9B18RuTc33Ug=
 		</data>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Y/J8USBoIzy2UctK+irtmlpE+w8=
+		y/8imzh1rIkYhU/qhWmYWwFk/Zs=
 		</data>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		z3xtIFaIcUlyFUksa52Q+huIB7s=
+		gAsTtOnp6KuF3WBHS/9HoOciHGM=
 		</data>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		y5TlSxH7ZRv6ew0dKs2hDMXdP9k=
+		pTAjg3mqPIN3q8BxG1rhzME5Iq8=
 		</data>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		y/ZQTcNtuP4kCMv6qKN9Sz5dQTg=
+		3cs3EWKmOtWEBLdfBKuGY0qL5CY=
 		</data>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		y5TlSxH7ZRv6ew0dKs2hDMXdP9k=
+		pTAjg3mqPIN3q8BxG1rhzME5Iq8=
 		</data>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HdWpD/huMdMtNc9aI0ltmszNCss=
+		RSgM0kRA3oHiR4xGXZyVSfvZrAY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		HKkuCVzW/dBESL32d6b9Hgbvmi4=
+		jaXbzm7tCJQKrXCUXxKbR1mpMm0=
 		</data>
-		<key>en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			HlcEKrbFGqLmDDDmUSFn1zSGuLI=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>es.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CyHnmOO5eYHZvmg4wNEAWHGKf4w=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Assets.car</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RvLFTgqHADKCOxOGGymoFh2fwYUyN+LNV6V+aXRMK54=
-			</data>
-		</dict>
 		<key>Headers/DTTJailbreakDetection.h</key>
 		<dict>
 			<key>hash2</key>
@@ -122,7 +93,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yDlqY15mWrsfb586gQz6moJKf1+zEGUceOU/IFro48Q=
+			gKCPdeSkKWUl0jMAJDSLtJsJ5bPZOehffeeY41eP6pc=
 			</data>
 		</dict>
 		<key>Headers/SmartId.h</key>
@@ -143,96 +114,78 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9Gt9/5TkmsdmFGdrM5YLJys3slHfmwudIEORUhjxapc=
+			FRhQ+KKBsnqNqfDWAdOi4xbIf4a+OZGQG158+LTSsEs=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WxzppdtxUR3mSd5iQoZBzY2di3JPtcjHaaP0SEMe52E=
+			HmfCKT7HdWQ6inhePoZKsdKbipRJEFORNnMxzHyPYFA=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			H7YFoaJhIeLN23Amsgj4tWKaWDBrDZyqvKTvUhhxlms=
+			K3HkcA01vsWjoX9hqfRWAcZyhmhS7q4ROfBfsnRf/LM=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WxzppdtxUR3mSd5iQoZBzY2di3JPtcjHaaP0SEMe52E=
+			HmfCKT7HdWQ6inhePoZKsdKbipRJEFORNnMxzHyPYFA=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SBhwBSq86jBJ3Na7wNVMCb/IcIOIEWmKywcjkKuDTUU=
+			C7hY1Wle7hObqNGXFwVccCf99QhYnJEMJ4z3c88ZX6o=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9Gt9/5TkmsdmFGdrM5YLJys3slHfmwudIEORUhjxapc=
+			FRhQ+KKBsnqNqfDWAdOi4xbIf4a+OZGQG158+LTSsEs=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u6yra3b0d7R5XdMAu+/JsDpHpVPdMRzHXc4WDfzXoqw=
+			dHOEOUm9HKmjcpNEU4meWYtzq067gnaYm0yNW27TJZw=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hgA0jZfkqfMUDH2p//wcbwEjbfuSQbVVsMw9VE0Kof4=
+			/6Cjssu9MgT28jvgxiP/g/8z+R/WNixZ0XVgc9AUwzI=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u6yra3b0d7R5XdMAu+/JsDpHpVPdMRzHXc4WDfzXoqw=
+			dHOEOUm9HKmjcpNEU4meWYtzq067gnaYm0yNW27TJZw=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dKKme9cuB0+8344RK1lzffCvHcSQwIZecYStd5xCWUU=
+			T5ID/X7sIi2HB2zp4TDhhddSAxos/jOq5wD44KLAQic=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7y/rWKdkBnqNJ2mpxSHSoISjuZHL47CooHUDLz7FAN0=
+			cINgRCjI2mN4mAQ1JkRZsnoMPL0BD62fXD8Hd/5ImG4=
 			</data>
-		</dict>
-		<key>en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Nku5VV30toLN41EINBy/Gc8OUFCf3THvtLI7rpZRgbU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>es.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			bij7yjB7Lo9Nf1bOUI3PL8Tgl1FSu5H6CGNkgKIVCas=
-			</data>
-			<key>optional</key>
-			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>
