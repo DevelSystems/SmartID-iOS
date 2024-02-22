@@ -88,7 +88,6 @@ public typealias Padding = Security.SecPadding
   final public func securePayment(channel: Swift.String, transactionType: Swift.String = "", amount: Swift.String, values: [Swift.String : Swift.String])
   final public func createOperation(channel: Swift.String, operation: SmartId.CoreOperation)
   final public func readToken(from viewController: UIKit.UIViewController, tokenId: Swift.String, isProd: Swift.Bool)
-  final public func registerURLHandlingClosure(_ closure: @escaping (Foundation.URL) -> Swift.Void)
   final public func handleIncomingURL(_ url: Foundation.URL)
   @objc deinit
 }
