@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/SmartId-Swift.h</key>
 		<data>
-		pJ2ys4Fs1GEv9dMIs5dvVRb54rA=
+		1672/UECWn+zHTdiR4a43e6kjx8=
 		</data>
 		<key>Headers/SmartId.h</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pF1O/3V2zi6g3ClaSef7MJlTgTo=
+		txRnYoqkCnYjpiND+vcGwOLdZSA=
 		</data>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,19 +34,19 @@
 		</data>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		NFjqrSUjfKi36TcS7Vdx2Q+2pkQ=
+		AcDrSZqTrsqBQAz/qEFg8B4eiBo=
 		</data>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		NQDQ8xJ9HyThpKIZ2TcTYwXNs20=
+		RV4ny/JZsnN6wAmk9uCBM1A0dFI=
 		</data>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		NFjqrSUjfKi36TcS7Vdx2Q+2pkQ=
+		AcDrSZqTrsqBQAz/qEFg8B4eiBo=
 		</data>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cB3lOAbLQqNKEH7p5035Xwv7LD8=
+		DWBw4EvbjWDdu8tSuHwLgLJZTgE=
 		</data>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,19 +54,19 @@
 		</data>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		tM7Gp+5G0EeTmqoCmiAzy29zadc=
+		DFWTsrwoWtFutweht4v1FxTyycc=
 		</data>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		WXtvBSXhpPTPXF0NzrgPaQZe7P8=
+		Nshqbu4XHEAIu81J3U/uT6MgUls=
 		</data>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		tM7Gp+5G0EeTmqoCmiAzy29zadc=
+		DFWTsrwoWtFutweht4v1FxTyycc=
 		</data>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6B7q/FrhRTKxzA1i7655+vhB9r4=
+		E7uBP2kC3OnUU+vXjy21iDnrjpM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -93,7 +93,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VREyZpJ9Tkqyb6srvYN1wAetCWL/SZK+AUl++Xf5ZqE=
+			oKhJOtO8UbZBknPL7NpxQoJw2Pty+fPdh8b9IBB7+v4=
 			</data>
 		</dict>
 		<key>Headers/SmartId.h</key>
@@ -121,28 +121,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			srxL9ocwmNe9fSdopvOuGyN5y370Sh52tMs4G0IeAtE=
+			GiQ5LJAMW82yfGjVkPNxWr02OSilWJcRVVBUFzxRYow=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n9EvzY6bvtw5r4Jz77SyPfdiwQXvxQetnrnwufNn9Ow=
+			RO5zsXypLSQOyj1q5Gt5Y/IKGSqFukE5ir/Ql40HJUU=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			srxL9ocwmNe9fSdopvOuGyN5y370Sh52tMs4G0IeAtE=
+			GiQ5LJAMW82yfGjVkPNxWr02OSilWJcRVVBUFzxRYow=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			50NGT71iRci2aDt2SEVMrsf0bJa8RneBJfZipdzTgpY=
+			hbToMSTUQbWONcC+gZ/rfNALpxwd1bTiGV+RyiAf8FQ=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -156,28 +156,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j9nq46g9aDkKYJgYH1VuXQwDQXbldBOzpTbrwZgZYCU=
+			rdj0iwlu/JDic5YrA+8/tWYmoTrHzczcEf8EAeRqCGE=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nS0MiI5Du+Zk9CaQlZE5HwcOvmXBPzxlLTClXlfb9vA=
+			vfiYpqvqhpqg7SXNtHGgr2+t+zVx/vXEvQ6ThuwHbRQ=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j9nq46g9aDkKYJgYH1VuXQwDQXbldBOzpTbrwZgZYCU=
+			rdj0iwlu/JDic5YrA+8/tWYmoTrHzczcEf8EAeRqCGE=
 			</data>
 		</dict>
 		<key>Modules/SmartId.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cJE4pNAwuSRk+VlzA4KeVdqcYPkG2ClRXhYM24psO74=
+			01cmlonIQcEQjzTfrhTmtqCvo05ncx7J6hUNnKtVfa8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
