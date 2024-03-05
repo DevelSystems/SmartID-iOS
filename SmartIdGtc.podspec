@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/DevelSystems/SmartID-iOS'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'SmartId DevOps' => 'info@smartidonline.com' }
-  s.source           = { :git => 'https://github.com/DevelSystems/SmartID-iOS.git', :branch => 'v5/gtc/v5.0.0' }
+  s.source           = { :git => 'https://github.com/DevelSystems/SmartID-iOS.git', :branch => 'gtc/v5.0.0' }
 
   s.ios.deployment_target = '12.0'
   s.swift_version = '5.0'
