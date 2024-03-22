@@ -8130,104 +8130,104 @@
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
       "offset": 289,
-      "length": 67,
-      "value": "\"https:\/\/api-bi.dstokenonline.com\/AppBI\/json\/reply\/CreateOperation\""
+      "length": 82,
+      "value": "\"https:\/\/api-dstoken-smartid-dev.bi.com.gt\/Api-App\/api\/json\/reply\/CreateOperation\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 384,
+      "offset": 399,
       "length": 34,
       "value": "\"ijOpzcsN5ei4xq8bXO7rNiwgclXYmjMH\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 1325,
+      "offset": 1340,
       "length": 57,
       "value": "\"Request headers: \""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 1381,
+      "offset": 1396,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 1707,
+      "offset": 1722,
       "length": 7,
       "value": "\"Input\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 1758,
+      "offset": 1773,
       "length": 11,
       "value": "\"Operation\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 1877,
+      "offset": 1892,
       "length": 5,
       "value": "\"\\\/\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 1890,
+      "offset": 1905,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1974,
+      "offset": 1989,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 2182,
+      "offset": 2197,
       "length": 394,
       "value": "\"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAycfO8KbpVFTSto9B\/rQD2Uqqp5bnOZ1dAmzTo6mP4Bupo72R4mI8d5YIXxfWpGkpK9Oa54D3kQYWWi2wS7bJa2Gfr6ymsqdw3QRYqfKeMb7OrNCTdt6oh6cvPrl7HvQX6\/a6wFxzs7JwwEhYge7h3wXpqlUBBn37ZURrgwxVOluf5LUAoKR7wCvOwuYUPzv+sY4usOu758thYr7j9U4q1auvx68a2bVa0pcW6SPLpxMLDfMD69QPNFSN0cdlTqPhgT9gNzaKXHJpSvxVecPy+Q6YIyjPhi9j4zdWV\/pIhSETvjzg2wP23q1uW0u6vVIPeZEWmR99w3J\/32Yn5vGn2wIDAQAB\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2610,
+      "offset": 2625,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 2650,
+      "offset": 2665,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2692,
+      "offset": 2707,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 3089,
+      "offset": 3104,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 3245,
+      "offset": 3260,
       "length": 3,
       "value": "\"|\""
     },
@@ -9468,7 +9468,7 @@
       "kind": "StringLiteral",
       "offset": 194,
       "length": 7,
-      "value": "\"4.6.1\""
+      "value": "\"4.6.2\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSAError.swift",
