@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST//1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSAppUsageDescription</key>
+    <string>La librería recopila datos de dispositivo para proporcionar funcionalidad básica, análisis y detección de fraude.</string>
+    <key>NSUsageDescription</key>
+    <dict>
+        <key>Device Information</key>
+        <dict>
+            <key>UsageDescription</key>
+            <string>La librería recopila datos de dispositivo para garantizar el correcto funcionamiento en diferentes dispositivos y versiones del sistema operativo.</string>
+            <key>Examples</key>
+            <array>
+                <string>Modelo de dispositivo</string>
+                <string>Marca del dispositivo</string>
+                <string>Versión del sistema operativo</string>
+            </array>
+        </dict>
+        <key>Network Information</key>
+        <dict>
+            <key>UsageDescription</key>
+            <string>La librería recopila la dirección IP pública para análisis y detección de fraude.</string>
+            <key>Examples</key>
+            <array>
+                <string>Dirección IP pública</string>
+            </array>
+        </dict>
+    </dict>
+</dict>
+</plist>

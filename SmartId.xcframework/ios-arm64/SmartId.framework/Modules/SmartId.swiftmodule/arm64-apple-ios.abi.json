@@ -3094,8 +3094,8 @@
       },
       {
         "kind": "Import",
-        "name": "KeychainAccess",
-        "printedName": "KeychainAccess",
+        "name": "Security",
+        "printedName": "Security",
         "declKind": "Import",
         "moduleName": "SmartId",
         "declAttributes": [
@@ -4193,98 +4193,91 @@
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
-      "offset": 3340,
-      "length": 10,
-      "value": "\"hashUUID\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
-      "kind": "StringLiteral",
-      "offset": 3355,
+      "offset": 3281,
       "length": 13,
       "value": "\"no_smart_id\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
-      "offset": 3605,
+      "offset": 3531,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
-      "offset": 3890,
+      "offset": 3816,
       "length": 6,
       "value": "\"Data\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
-      "offset": 3898,
+      "offset": 3824,
       "length": 111,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
-      "offset": 3916,
+      "offset": 3842,
       "length": 1,
       "value": "\"|\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
-      "offset": 3935,
+      "offset": 3861,
       "length": 1,
       "value": "\"|\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
-      "offset": 3952,
+      "offset": 3878,
       "length": 1,
       "value": "\"|\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
-      "offset": 3974,
+      "offset": 3900,
       "length": 1,
       "value": "\"|\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
-      "offset": 3991,
+      "offset": 3917,
       "length": 1,
       "value": "\"|\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
-      "offset": 4008,
+      "offset": 3934,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
-      "offset": 4086,
+      "offset": 4012,
       "length": 28,
       "value": "\"JSON String: \""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
-      "offset": 4113,
+      "offset": 4039,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4195,
+      "offset": 4121,
       "length": 4,
       "value": "true"
     },
@@ -5257,233 +5250,240 @@
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 5522,
-      "length": 10,
-      "value": "\"hashUUID\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
-      "kind": "StringLiteral",
-      "offset": 5867,
+      "offset": 5785,
       "length": 8,
       "value": "\"osName\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 5918,
+      "offset": 5836,
       "length": 11,
       "value": "\"osVersion\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 5975,
+      "offset": 5893,
       "length": 7,
       "value": "\"model\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 6028,
+      "offset": 5946,
       "length": 14,
       "value": "\"manufacturer\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 6044,
+      "offset": 5962,
       "length": 7,
       "value": "\"Apple\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 6065,
+      "offset": 5983,
       "length": 12,
       "value": "\"systemName\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 6114,
+      "offset": 6032,
       "length": 6,
       "value": "\"hash\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 6212,
+      "offset": 6130,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 6443,
+      "offset": 6361,
       "length": 6,
       "value": "\"body\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 6617,
+      "offset": 6535,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 6673,
+      "offset": 6591,
       "length": 14,
       "value": "\"isProduction\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 7024,
+      "offset": 6942,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 7395,
+      "offset": 7313,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 7455,
+      "offset": 7373,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 7912,
+      "offset": 7830,
       "length": 37,
       "value": "\"SecurePayment response: \""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 7948,
+      "offset": 7866,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 8024,
+      "offset": 7942,
       "length": 52,
       "value": "\"SecurePayment error: \""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 8075,
+      "offset": 7993,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 8129,
+      "offset": 8047,
       "length": 58,
       "value": "\"Catch securePayment error: \""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 8186,
+      "offset": 8104,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 9068,
+      "offset": 8986,
       "length": 40,
       "value": "\"Create Operation response: \""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 9107,
+      "offset": 9025,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 9182,
+      "offset": 9100,
       "length": 55,
       "value": "\"Create Operation error: \""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 9236,
+      "offset": 9154,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 9302,
+      "offset": 9220,
       "length": 61,
       "value": "\"Catch Create Operation error: \""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 9362,
+      "offset": 9280,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 10326,
+      "offset": 10244,
       "length": 47,
       "value": "\"LOCATION ERROR: \""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 10372,
+      "offset": 10290,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Service\/KeychainService.swift",
       "kind": "StringLiteral",
-      "offset": 258,
+      "offset": 239,
       "length": 40,
       "value": "\"udid_\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Service\/KeychainService.swift",
       "kind": "StringLiteral",
-      "offset": 297,
+      "offset": 278,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Service\/KeychainService.swift",
       "kind": "StringLiteral",
-      "offset": 455,
+      "offset": 309,
       "length": 26,
       "value": "\"com.develsystems.SmartId\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Service\/KeychainService.swift",
+      "kind": "StringLiteral",
+      "offset": 1245,
+      "length": 10,
+      "value": "\"hashUUID\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Service\/KeychainService.swift",
       "kind": "BooleanLiteral",
-      "offset": 498,
-      "length": 5,
-      "value": "false"
+      "offset": 1616,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Service\/KeychainService.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1660,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
@@ -7098,252 +7098,252 @@
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "Dictionary",
-      "offset": 6668,
+      "offset": 6614,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "Dictionary",
-      "offset": 6712,
+      "offset": 6658,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "Dictionary",
-      "offset": 8642,
+      "offset": 8588,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "IntegerLiteral",
-      "offset": 8664,
+      "offset": 8610,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "Dictionary",
-      "offset": 8832,
+      "offset": 8778,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 8883,
+      "offset": 8829,
       "length": 5,
       "value": "\"en0\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 8923,
+      "offset": 8869,
       "length": 6,
       "value": "\"IPv4\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 9176,
+      "offset": 9122,
       "length": 9,
       "value": "\"unknown\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "IntegerLiteral",
-      "offset": 9305,
+      "offset": 9251,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "Dictionary",
-      "offset": 9564,
+      "offset": 9510,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 9813,
+      "offset": 9759,
       "length": 9,
       "value": "\"unknown\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 9862,
+      "offset": 9808,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "Dictionary",
-      "offset": 10077,
+      "offset": 10023,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 10226,
+      "offset": 10172,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 10401,
+      "offset": 10347,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "Dictionary",
-      "offset": 10444,
+      "offset": 10390,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "Dictionary",
-      "offset": 10913,
+      "offset": 10859,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11021,
+      "offset": 10967,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 11105,
+      "offset": 11051,
       "length": 9,
       "value": "\"unknown\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 11192,
+      "offset": 11138,
       "length": 9,
       "value": "\"unknown\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 11273,
+      "offset": 11219,
       "length": 9,
       "value": "\"unknown\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 11363,
+      "offset": 11309,
       "length": 9,
       "value": "\"unknown\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "Dictionary",
-      "offset": 11525,
+      "offset": 11471,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11607,
+      "offset": 11553,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11679,
+      "offset": 11625,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "Dictionary",
-      "offset": 11846,
+      "offset": 11792,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 12040,
+      "offset": 11986,
       "length": 51,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 12064,
+      "offset": 12010,
       "length": 1,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 12090,
+      "offset": 12036,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "Dictionary",
-      "offset": 12248,
+      "offset": 12194,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 12612,
+      "offset": 12558,
       "length": 51,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 12636,
+      "offset": 12582,
       "length": 1,
       "value": "\", \""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 12662,
+      "offset": 12608,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 12781,
+      "offset": 12727,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 13254,
+      "offset": 13200,
       "length": 47,
       "value": "\"LOCATION ERROR: \""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 13300,
+      "offset": 13246,
       "length": 2,
       "value": "\"\""
     },
@@ -10059,539 +10059,553 @@
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 642,
+      "offset": 666,
       "length": 26,
       "value": "\"https:\/\/bstap.bam.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 712,
+      "offset": 736,
       "length": 31,
       "value": "\"https:\/\/stats.banrural.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 793,
+      "offset": 817,
       "length": 25,
       "value": "\"https:\/\/psapp.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 863,
+      "offset": 887,
       "length": 25,
       "value": "\"https:\/\/stats.bi.com.sv\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 933,
+      "offset": 957,
       "length": 29,
       "value": "\"https:\/\/stats.bibank.com.pa\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 1007,
+      "offset": 1031,
       "length": 26,
       "value": "\"https:\/\/stats.banpais.hn\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 1076,
+      "offset": 1100,
       "length": 25,
       "value": "\"https:\/\/stats.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 1140,
+      "offset": 1164,
       "length": 26,
       "value": "\"https:\/\/stats.soyfri.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 1209,
+      "offset": 1233,
       "length": 33,
       "value": "\"https:\/\/stats.smartidonline.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 1289,
+      "offset": 1313,
       "length": 34,
       "value": "\"https:\/\/stats.inmobanking.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 1373,
+      "offset": 1397,
       "length": 37,
       "value": "\"https:\/\/stats.bancopromerica.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 1449,
+      "offset": 1473,
       "length": 37,
       "value": "\"https:\/\/stats-gyt.smartidonline.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 1530,
+      "offset": 1554,
       "length": 27,
       "value": "\"https:\/\/stats.vivepass.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 1606,
+      "offset": 1630,
       "length": 36,
       "value": "\"https:\/\/stats-bh.smartidonline.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 1694,
+      "offset": 1718,
       "length": 45,
       "value": "\"https:\/\/stats-promericasv.smartidonline.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 1791,
+      "offset": 1815,
       "length": 45,
       "value": "\"https:\/\/stats-promericahn.smartidonline.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 1888,
+      "offset": 1912,
       "length": 45,
       "value": "\"https:\/\/stats-promericani.smartidonline.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 1985,
+      "offset": 2009,
       "length": 45,
       "value": "\"https:\/\/stats-promericard.smartidonline.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 2073,
+      "offset": 2097,
       "length": 33,
       "value": "\"https:\/\/stats.smartidonline.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 2220,
+      "offset": 2180,
+      "length": 34,
+      "value": "\"https:\/\/stats.bancocuscatlan.com\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "kind": "StringLiteral",
+      "offset": 2328,
       "length": 26,
       "value": "\"https:\/\/bstap.bam.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 2290,
+      "offset": 2398,
       "length": 31,
       "value": "\"https:\/\/stats.banrural.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 2371,
+      "offset": 2479,
       "length": 25,
       "value": "\"https:\/\/psapp.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 2441,
+      "offset": 2549,
       "length": 25,
       "value": "\"https:\/\/stats.bi.com.sv\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 2511,
+      "offset": 2619,
       "length": 29,
       "value": "\"https:\/\/stats.bibank.com.pa\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 2585,
+      "offset": 2693,
       "length": 26,
       "value": "\"https:\/\/stats.banpais.hn\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 2654,
+      "offset": 2762,
       "length": 25,
       "value": "\"https:\/\/stats.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 2718,
+      "offset": 2826,
       "length": 26,
       "value": "\"https:\/\/stats.soyfri.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 2787,
-      "length": 36,
-      "value": "\"https:\/\/smartcore.develsystems.com\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
-      "kind": "StringLiteral",
-      "offset": 2870,
-      "length": 34,
-      "value": "\"https:\/\/stats.inmobanking.com.gt\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
-      "kind": "StringLiteral",
-      "offset": 2954,
-      "length": 37,
-      "value": "\"https:\/\/stats.bancopromerica.com.gt\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
-      "kind": "StringLiteral",
-      "offset": 3030,
-      "length": 37,
-      "value": "\"https:\/\/stats-gyt.smartidonline.com\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
-      "kind": "StringLiteral",
-      "offset": 3111,
-      "length": 27,
-      "value": "\"https:\/\/stats.vivepass.gt\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
-      "kind": "StringLiteral",
-      "offset": 3187,
-      "length": 36,
-      "value": "\"https:\/\/stats-bh.smartidonline.com\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
-      "kind": "StringLiteral",
-      "offset": 3275,
-      "length": 45,
-      "value": "\"https:\/\/stats-promericasv.smartidonline.com\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
-      "kind": "StringLiteral",
-      "offset": 3372,
-      "length": 45,
-      "value": "\"https:\/\/stats-promericahn.smartidonline.com\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
-      "kind": "StringLiteral",
-      "offset": 3469,
-      "length": 45,
-      "value": "\"https:\/\/stats-promericani.smartidonline.com\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
-      "kind": "StringLiteral",
-      "offset": 3566,
-      "length": 45,
-      "value": "\"https:\/\/stats-promericard.smartidonline.com\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
-      "kind": "StringLiteral",
-      "offset": 3654,
+      "offset": 2895,
       "length": 33,
       "value": "\"https:\/\/stats.smartidonline.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 3929,
+      "offset": 2975,
+      "length": 34,
+      "value": "\"https:\/\/stats.inmobanking.com.gt\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "kind": "StringLiteral",
+      "offset": 3059,
+      "length": 37,
+      "value": "\"https:\/\/stats.bancopromerica.com.gt\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "kind": "StringLiteral",
+      "offset": 3135,
+      "length": 37,
+      "value": "\"https:\/\/stats-gyt.smartidonline.com\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "kind": "StringLiteral",
+      "offset": 3216,
+      "length": 27,
+      "value": "\"https:\/\/stats.vivepass.gt\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "kind": "StringLiteral",
+      "offset": 3292,
+      "length": 36,
+      "value": "\"https:\/\/stats-bh.smartidonline.com\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "kind": "StringLiteral",
+      "offset": 3380,
+      "length": 45,
+      "value": "\"https:\/\/stats-promericasv.smartidonline.com\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "kind": "StringLiteral",
+      "offset": 3477,
+      "length": 45,
+      "value": "\"https:\/\/stats-promericahn.smartidonline.com\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "kind": "StringLiteral",
+      "offset": 3574,
+      "length": 45,
+      "value": "\"https:\/\/stats-promericani.smartidonline.com\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "kind": "StringLiteral",
+      "offset": 3671,
+      "length": 45,
+      "value": "\"https:\/\/stats-promericard.smartidonline.com\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "kind": "StringLiteral",
+      "offset": 3759,
+      "length": 33,
+      "value": "\"https:\/\/stats.smartidonline.com\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "kind": "StringLiteral",
+      "offset": 3842,
+      "length": 34,
+      "value": "\"https:\/\/stats.bancocuscatlan.com\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "kind": "StringLiteral",
+      "offset": 4118,
       "length": 20,
       "value": "\"belappgt.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 3952,
+      "offset": 4141,
       "length": 28,
       "value": "\"bel3-ent4.osapps.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 4040,
+      "offset": 4229,
       "length": 19,
       "value": "\"bbappgt.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 4062,
+      "offset": 4251,
       "length": 21,
       "value": "\"bbappqa08.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 4143,
+      "offset": 4332,
       "length": 17,
       "value": "\"apphn.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 4163,
+      "offset": 4352,
       "length": 24,
       "value": "\"apphnpruebas.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 4247,
+      "offset": 4436,
       "length": 17,
       "value": "\"apppa.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 4267,
+      "offset": 4456,
       "length": 24,
       "value": "\"apppapruebas.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 4351,
+      "offset": 4540,
       "length": 17,
       "value": "\"appsv.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 4371,
+      "offset": 4560,
       "length": 24,
       "value": "\"appsvpruebas.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 4449,
+      "offset": 4638,
       "length": 16,
       "value": "\"app.soyfri.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 4468,
+      "offset": 4657,
       "length": 16,
       "value": "\"dev.soyfri.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 4546,
+      "offset": 4735,
       "length": 28,
       "value": "\"gateway.inmobanking.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 4577,
+      "offset": 4766,
       "length": 36,
       "value": "\"gateway-staging.inmobanking.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 4677,
+      "offset": 4866,
       "length": 31,
       "value": "\"bhapp.bancohipotecario.com.sv\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 4711,
+      "offset": 4900,
       "length": 31,
       "value": "\"appqa.bancohipotecario.com.sv\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 4785,
+      "offset": 4974,
       "length": 18,
       "value": "\"develsystems.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 4840,
+      "offset": 5029,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 5090,
+      "offset": 5279,
       "length": 28,
       "value": "\"https:\/\/belappgt.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 5121,
+      "offset": 5310,
       "length": 36,
       "value": "\"https:\/\/bel3-ent4.osapps.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 5217,
+      "offset": 5406,
       "length": 27,
       "value": "\"https:\/\/bbappgt.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 5247,
+      "offset": 5436,
       "length": 29,
       "value": "\"https:\/\/bbappqa08.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 5336,
+      "offset": 5525,
       "length": 25,
       "value": "\"https:\/\/apphn.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 5364,
+      "offset": 5553,
       "length": 32,
       "value": "\"https:\/\/apphnpruebas.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 5456,
+      "offset": 5645,
       "length": 25,
       "value": "\"https:\/\/apppa.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 5484,
+      "offset": 5673,
       "length": 32,
       "value": "\"https:\/\/apppapruebas.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 5576,
+      "offset": 5765,
       "length": 25,
       "value": "\"https:\/\/appsv.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 5604,
+      "offset": 5793,
       "length": 32,
       "value": "\"https:\/\/appsvpruebas.bi.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 5690,
+      "offset": 5879,
       "length": 24,
       "value": "\"https:\/\/app.soyfri.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 5717,
+      "offset": 5906,
       "length": 24,
       "value": "\"https:\/\/dev.soyfri.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 5805,
+      "offset": 5994,
       "length": 39,
       "value": "\"https:\/\/bhapp.bancohipotecario.com.sv\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 5847,
+      "offset": 6036,
       "length": 39,
       "value": "\"https:\/\/appqa.bancohipotecario.com.sv\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 5929,
+      "offset": 6118,
       "length": 26,
       "value": "\"https:\/\/develsystems.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 6017,
+      "offset": 6206,
       "length": 36,
       "value": "\"https:\/\/gateway.inmobanking.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 6056,
+      "offset": 6245,
       "length": 44,
       "value": "\"https:\/\/gateway-staging.inmobanking.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 6137,
+      "offset": 6326,
       "length": 6,
       "value": "\"none\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 6228,
+      "offset": 6417,
       "length": 40,
       "value": "\"https:\/\/dev-info-api.smartidonline.com\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 6534,
+      "offset": 6723,
       "length": 40,
       "value": "\"https:\/\/info-api.bancopromerica.com.gt\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
       "kind": "StringLiteral",
-      "offset": 6611,
+      "offset": 6800,
       "length": 2,
       "value": "\"\""
     }
