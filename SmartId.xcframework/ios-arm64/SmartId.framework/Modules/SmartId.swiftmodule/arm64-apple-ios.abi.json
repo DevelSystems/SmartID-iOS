@@ -6007,1037 +6007,1079 @@
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "Array",
-      "offset": 7971,
-      "length": 2,
-      "value": "[]"
+      "kind": "StringLiteral",
+      "offset": 7714,
+      "length": 22,
+      "value": "\"navigation_bar_title\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 8077,
-      "length": 6,
-      "value": "\"uuid\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 8231,
-      "length": 32,
-      "value": "\"UUID not found or not a string\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 8390,
-      "length": 13,
-      "value": "\"coordinates\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 8567,
-      "length": 39,
-      "value": "\"Coordinates not found or not a string\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 8970,
-      "length": 46,
-      "value": "\"Error al obtener informacion del dispositivo\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9120,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 9380,
-      "length": 46,
-      "value": "\"Error al obtener informacion del dispositivo\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9526,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 9761,
-      "length": 46,
-      "value": "\"Error al obtener informacion del dispositivo\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9903,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 10169,
-      "length": 46,
-      "value": "\"Error al obtener informacion del dispositivo\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 10307,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 10512,
-      "length": 32,
-      "value": "\"transaction_confirmation_title\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 10576,
+      "offset": 7763,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 10634,
-      "length": 33,
-      "value": "\"transaction_confirmation_cancel\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 10699,
+      "offset": 7815,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 10757,
-      "length": 33,
-      "value": "\"transaction_confirmation_cancel\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 10822,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 10885,
-      "length": 26,
-      "value": "\"no_recognize_transaction\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 10943,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 11004,
-      "length": 20,
-      "value": "\"cancel_transaction\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 11056,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 11135,
-      "length": 23,
-      "value": "\"authorize_transaction\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 11190,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 11266,
-      "length": 20,
-      "value": "\"report_transaction\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 11318,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 11436,
-      "length": 3,
-      "value": "\"-\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 11512,
-      "length": 4,
-      "value": "\"es\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 11536,
-      "length": 4,
-      "value": "\"en\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 11577,
-      "length": 4,
-      "value": "\"en\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 12088,
-      "length": 5,
-      "value": "\"200\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 12228,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 12322,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 12423,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 12523,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 12748,
-      "length": 19,
-      "value": "\"Error desconocido\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 12860,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 13321,
-      "length": 9,
-      "value": "\"#F3F3F3\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14048,
-      "length": 2,
-      "value": "25"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14150,
-      "length": 2,
-      "value": "15"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14254,
-      "length": 3,
-      "value": "-15"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14368,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14570,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14680,
-      "length": 3,
-      "value": "-16"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14777,
-      "length": 2,
-      "value": "15"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14983,
-      "length": 2,
-      "value": "26"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 15095,
-      "length": 3,
-      "value": "-26"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 15203,
-      "length": 2,
-      "value": "50"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 15310,
-      "length": 2,
-      "value": "26"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 15377,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 15444,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 15563,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 15750,
-      "length": 3,
-      "value": "-26"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 15857,
-      "length": 2,
-      "value": "70"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 15966,
-      "length": 2,
-      "value": "26"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16035,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16104,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16227,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16420,
-      "length": 3,
-      "value": "-26"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16539,
-      "length": 2,
-      "value": "40"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16658,
-      "length": 1,
-      "value": "6"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16736,
-      "length": 2,
-      "value": "32"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16816,
-      "length": 2,
-      "value": "52"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16949,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17149,
-      "length": 3,
-      "value": "-11"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17273,
-      "length": 2,
-      "value": "15"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17487,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17603,
-      "length": 3,
-      "value": "-16"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17716,
-      "length": 3,
-      "value": "-25"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17957,
-      "length": 2,
-      "value": "15"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 18030,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 18355,
-      "length": 3,
-      "value": "-15"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 18455,
-      "length": 2,
-      "value": "25"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 18556,
-      "length": 3,
-      "value": "-25"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 18638,
-      "length": 2,
-      "value": "50"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 18653,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 18770,
-      "length": 3,
-      "value": "155"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 18842,
-      "length": 2,
-      "value": "50"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 18912,
-      "length": 3,
-      "value": "155"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 18984,
-      "length": 2,
-      "value": "50"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 19168,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 19395,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 19626,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19926,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 20015,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 20093,
-      "length": 53,
-      "value": "\"asdasdfgvasdgjbnsijhdsfohjsgdhklojsdhkjhlfksddsdfds\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 20433,
-      "length": 5,
-      "value": "\"200\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 20797,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 20949,
-      "length": 17,
-      "value": "\"attention_title\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 20998,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 21077,
-      "length": 19,
-      "value": "\"Error desconocido\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 21473,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 21557,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 21630,
-      "length": 53,
-      "value": "\"asdasdfgvasdgjbnsijhdsfohjsgdhklojsdhkjhlfksddsdfds\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 21929,
-      "length": 5,
-      "value": "\"816\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 22030,
-      "length": 20,
-      "value": "\"report_fraud_title\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 22082,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 22138,
-      "length": 20,
-      "value": "\"report_fraud_label\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 22191,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 22419,
-      "length": 17,
-      "value": "\"attention_title\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 22468,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 22543,
-      "length": 19,
-      "value": "\"Error desconocido\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 22893,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 22977,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 23050,
-      "length": 53,
-      "value": "\"asdasdfgvasdgjbnsijhdsfohjsgdhklojsdhkjhlfksddsdfds\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 23349,
-      "length": 5,
-      "value": "\"817\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 23450,
-      "length": 14,
-      "value": "\"cancel_title\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 23496,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 23552,
-      "length": 14,
-      "value": "\"cancel_label\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 23599,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 23827,
-      "length": 17,
-      "value": "\"attention_title\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 23876,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 23951,
-      "length": 19,
-      "value": "\"Error desconocido\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 24259,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "StringLiteral",
-      "offset": 24318,
+      "offset": 8123,
       "length": 9,
       "value": "\"#143761\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 24368,
-      "length": 4,
-      "value": "true"
+      "offset": 8854,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 8941,
+      "length": 9,
+      "value": "\"#143761\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "Array",
+      "offset": 9444,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 9550,
+      "length": 6,
+      "value": "\"uuid\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 9704,
+      "length": 32,
+      "value": "\"UUID not found or not a string\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 9863,
+      "length": 13,
+      "value": "\"coordinates\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 10040,
+      "length": 39,
+      "value": "\"Coordinates not found or not a string\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 10443,
+      "length": 46,
+      "value": "\"Error al obtener informacion del dispositivo\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 24411,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 24460,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 24505,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 24556,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 24611,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 24661,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 24706,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 24760,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 24804,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 24850,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 24899,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 24945,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 25063,
+      "offset": 10593,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 25121,
+      "offset": 10853,
+      "length": 46,
+      "value": "\"Error al obtener informacion del dispositivo\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10999,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 11234,
+      "length": 46,
+      "value": "\"Error al obtener informacion del dispositivo\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11376,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 11642,
+      "length": 46,
+      "value": "\"Error al obtener informacion del dispositivo\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11780,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 11985,
+      "length": 32,
+      "value": "\"transaction_confirmation_title\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 12049,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 12107,
+      "length": 33,
+      "value": "\"transaction_confirmation_cancel\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 12172,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 12230,
+      "length": 33,
+      "value": "\"transaction_confirmation_cancel\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 12295,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 12358,
+      "length": 26,
+      "value": "\"no_recognize_transaction\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 12416,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 12477,
+      "length": 20,
+      "value": "\"cancel_transaction\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 12529,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 12608,
+      "length": 23,
+      "value": "\"authorize_transaction\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 12663,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 12739,
+      "length": 20,
+      "value": "\"report_transaction\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 12791,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 12909,
+      "length": 3,
+      "value": "\"-\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 12985,
+      "length": 4,
+      "value": "\"es\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 13009,
+      "length": 4,
+      "value": "\"en\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 13050,
+      "length": 4,
+      "value": "\"en\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 13561,
+      "length": 5,
+      "value": "\"200\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 13701,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 13795,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 13896,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 13996,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 14221,
+      "length": 19,
+      "value": "\"Error desconocido\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14333,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 14794,
+      "length": 9,
+      "value": "\"#F3F3F3\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15521,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15623,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15727,
+      "length": 3,
+      "value": "-15"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15841,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16043,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16153,
+      "length": 3,
+      "value": "-16"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16250,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16456,
+      "length": 2,
+      "value": "26"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16568,
+      "length": 3,
+      "value": "-26"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16676,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16783,
+      "length": 2,
+      "value": "26"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16850,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16917,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17036,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17223,
+      "length": 3,
+      "value": "-26"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17330,
+      "length": 2,
+      "value": "70"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17439,
+      "length": 2,
+      "value": "26"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17508,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17577,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17700,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 17893,
+      "length": 3,
+      "value": "-26"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18012,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18131,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18209,
+      "length": 2,
+      "value": "32"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18289,
+      "length": 2,
+      "value": "52"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18422,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18622,
+      "length": 3,
+      "value": "-11"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18746,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 18960,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19076,
+      "length": 3,
+      "value": "-16"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19189,
+      "length": 3,
+      "value": "-25"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19430,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 19503,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19828,
+      "length": 3,
+      "value": "-15"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 19928,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20029,
+      "length": 3,
+      "value": "-25"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20111,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20126,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20243,
+      "length": 3,
+      "value": "155"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20315,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20385,
+      "length": 3,
+      "value": "155"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 20457,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20641,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 20868,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 21099,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 21399,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 21488,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 21566,
+      "length": 53,
+      "value": "\"asdasdfgvasdgjbnsijhdsfohjsgdhklojsdhkjhlfksddsdfds\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 21906,
+      "length": 5,
+      "value": "\"200\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 22270,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 22422,
+      "length": 17,
+      "value": "\"attention_title\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 22471,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 22550,
+      "length": 19,
+      "value": "\"Error desconocido\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 22946,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 23030,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 23103,
+      "length": 53,
+      "value": "\"asdasdfgvasdgjbnsijhdsfohjsgdhklojsdhkjhlfksddsdfds\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 23402,
+      "length": 5,
+      "value": "\"816\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 23503,
+      "length": 20,
+      "value": "\"report_fraud_title\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 23555,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 23611,
+      "length": 20,
+      "value": "\"report_fraud_label\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 23664,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 23892,
+      "length": 17,
+      "value": "\"attention_title\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 23941,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 24016,
+      "length": 19,
+      "value": "\"Error desconocido\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 24366,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 24450,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 24523,
+      "length": 53,
+      "value": "\"asdasdfgvasdgjbnsijhdsfohjsgdhklojsdhkjhlfksddsdfds\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 24822,
+      "length": 5,
+      "value": "\"817\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 24923,
+      "length": 14,
+      "value": "\"cancel_title\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 24969,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 25025,
+      "length": 14,
+      "value": "\"cancel_label\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 25072,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 25300,
+      "length": 17,
+      "value": "\"attention_title\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 25349,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 25424,
+      "length": 19,
+      "value": "\"Error desconocido\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 25732,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 25791,
+      "length": 9,
+      "value": "\"#143761\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 25841,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 25884,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 25933,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 25978,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26029,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26084,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26134,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26179,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26233,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26277,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26323,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26372,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26418,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26536,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "StringLiteral",
+      "offset": 26594,
       "length": 9,
       "value": "\"#F3F3F3\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 25171,
+      "offset": 26644,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 25215,
+      "offset": 26688,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 25265,
+      "offset": 26738,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 25311,
+      "offset": 26784,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 25363,
+      "offset": 26836,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 25419,
+      "offset": 26892,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 25470,
+      "offset": 26943,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 25516,
+      "offset": 26989,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 25571,
+      "offset": 27044,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 25616,
+      "offset": 27089,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 25663,
+      "offset": 27136,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 25713,
+      "offset": 27186,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 25760,
+      "offset": 27233,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 26097,
+      "offset": 27570,
       "length": 13,
       "value": "\"done_button\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "StringLiteral",
-      "offset": 26137,
+      "offset": 27610,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 26255,
+      "offset": 27728,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 26306,
+      "offset": 27779,
       "length": 4,
       "value": "true"
     },
@@ -8094,105 +8136,105 @@
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 289,
+      "offset": 459,
       "length": 82,
       "value": "\"https:\/\/api-dstoken-smartid-dev.bi.com.gt\/Api-App\/api\/json\/reply\/CreateOperation\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 399,
+      "offset": 569,
       "length": 34,
       "value": "\"ijOpzcsN5ei4xq8bXO7rNiwgclXYmjMH\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 1340,
+      "offset": 1510,
       "length": 57,
       "value": "\"Request headers: \""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 1396,
+      "offset": 1566,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 1722,
+      "offset": 1892,
       "length": 7,
       "value": "\"Input\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 1773,
+      "offset": 1943,
       "length": 11,
       "value": "\"Operation\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 1892,
+      "offset": 2062,
       "length": 5,
       "value": "\"\\\/\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 1905,
+      "offset": 2075,
       "length": 3,
       "value": "\"\/\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1989,
+      "offset": 2159,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 2197,
+      "offset": 2367,
       "length": 394,
       "value": "\"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAycfO8KbpVFTSto9B\/rQD2Uqqp5bnOZ1dAmzTo6mP4Bupo72R4mI8d5YIXxfWpGkpK9Oa54D3kQYWWi2wS7bJa2Gfr6ymsqdw3QRYqfKeMb7OrNCTdt6oh6cvPrl7HvQX6\/a6wFxzs7JwwEhYge7h3wXpqlUBBn37ZURrgwxVOluf5LUAoKR7wCvOwuYUPzv+sY4usOu758thYr7j9U4q1auvx68a2bVa0pcW6SPLpxMLDfMD69QPNFSN0cdlTqPhgT9gNzaKXHJpSvxVecPy+Q6YIyjPhi9j4zdWV\/pIhSETvjzg2wP23q1uW0u6vVIPeZEWmR99w3J\/32Yn5vGn2wIDAQAB\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2625,
+      "offset": 2795,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 2665,
+      "offset": 2835,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "IntegerLiteral",
-      "offset": 2707,
+      "offset": 2877,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 3104,
+      "offset": 3274,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Api\/UriManagementController.swift",
       "kind": "StringLiteral",
-      "offset": 3260,
+      "offset": 3430,
       "length": 3,
       "value": "\"|\""
     },
@@ -9433,7 +9475,7 @@
       "kind": "StringLiteral",
       "offset": 194,
       "length": 7,
-      "value": "\"4.6.3\""
+      "value": "\"4.6.4\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSAError.swift",
@@ -10130,148 +10172,197 @@
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2762,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "StringLiteral",
-      "offset": 2837,
+      "offset": 2880,
       "length": 22,
       "value": "\"d\/M\/yyyy '•' HH:mm\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3657,
-      "length": 3,
-      "value": "100"
+      "kind": "StringLiteral",
+      "offset": 3226,
+      "length": 22,
+      "value": "\"navigation_bar_title\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
+      "kind": "StringLiteral",
+      "offset": 3275,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
+      "kind": "StringLiteral",
+      "offset": 3327,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
+      "kind": "StringLiteral",
+      "offset": 3635,
+      "length": 9,
+      "value": "\"#143761\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4366,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
+      "kind": "StringLiteral",
+      "offset": 4453,
+      "length": 9,
+      "value": "\"#143761\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3760,
+      "offset": 5201,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5303,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3864,
+      "offset": 5407,
       "length": 3,
       "value": "-15"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3975,
+      "offset": 5518,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4088,
+      "offset": 5631,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4196,
+      "offset": 5739,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4306,
+      "offset": 5849,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4412,
+      "offset": 5955,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4518,
+      "offset": 6061,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4627,
+      "offset": 6170,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4711,
+      "offset": 6254,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4803,
+      "offset": 6346,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4912,
+      "offset": 6455,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5022,
+      "offset": 6565,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5128,
+      "offset": 6671,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5235,
+      "offset": 6778,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5344,
+      "offset": 6887,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5536,
+      "offset": 7079,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5648,
+      "offset": 7191,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ValidationCodeView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5762,
+      "offset": 7305,
       "length": 3,
       "value": "-15"
     },
@@ -12203,196 +12294,217 @@
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "StringLiteral",
-      "offset": 1070,
-      "length": 12,
-      "value": "\"error_icon\""
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1227,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
-      "kind": "StringLiteral",
-      "offset": 1382,
+      "offset": 1369,
       "length": 10,
       "value": "\"Regresar\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1472,
+      "offset": 1459,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1512,
+      "offset": 1499,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "StringLiteral",
-      "offset": 1560,
+      "offset": 1547,
       "length": 9,
       "value": "\"#143761\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 1681,
+      "offset": 1668,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "StringLiteral",
-      "offset": 1865,
+      "offset": 1852,
       "length": 60,
       "value": "\"Navigation stack: \""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "StringLiteral",
-      "offset": 1924,
+      "offset": 1911,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2081,
+      "offset": 2068,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2165,
+      "offset": 2152,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 2345,
+      "offset": 2332,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "StringLiteral",
-      "offset": 2513,
+      "offset": 2498,
+      "length": 17,
+      "value": "\"attention_title\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
+      "kind": "StringLiteral",
+      "offset": 2542,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
+      "kind": "StringLiteral",
+      "offset": 2592,
       "length": 13,
       "value": "\"done_button\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "StringLiteral",
-      "offset": 2553,
+      "offset": 2632,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
+      "kind": "StringLiteral",
+      "offset": 2699,
+      "length": 22,
+      "value": "\"navigation_bar_title\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
+      "kind": "StringLiteral",
+      "offset": 2748,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
+      "kind": "StringLiteral",
+      "offset": 2800,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
+      "kind": "StringLiteral",
+      "offset": 3108,
+      "length": 9,
+      "value": "\"#143761\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3839,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
+      "kind": "StringLiteral",
+      "offset": 3926,
+      "length": 9,
+      "value": "\"#143761\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2910,
+      "offset": 4472,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3002,
+      "offset": 4564,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3096,
+      "offset": 4658,
       "length": 3,
       "value": "-16"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3193,
+      "offset": 4755,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3287,
+      "offset": 4849,
       "length": 2,
       "value": "36"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3383,
+      "offset": 4945,
       "length": 3,
       "value": "-36"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3556,
-      "length": 2,
-      "value": "80"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3623,
-      "length": 2,
-      "value": "80"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3691,
-      "length": 2,
-      "value": "80"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3784,
+      "offset": 5363,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3878,
+      "offset": 5457,
       "length": 3,
       "value": "-30"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3989,
+      "offset": 5568,
       "length": 3,
       "value": "-30"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4059,
+      "offset": 5638,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 4317,
+      "offset": 5896,
       "length": 5,
       "value": "false"
     },
@@ -15386,539 +15498,539 @@
       "value": "\"SmartId._objc_Signature\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 642,
       "length": 26,
       "value": "\"https:\/\/bstap.bam.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 712,
       "length": 31,
       "value": "\"https:\/\/stats.banrural.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 793,
       "length": 25,
       "value": "\"https:\/\/psapp.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 863,
       "length": 25,
       "value": "\"https:\/\/stats.bi.com.sv\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 933,
       "length": 29,
       "value": "\"https:\/\/stats.bibank.com.pa\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 1007,
       "length": 26,
       "value": "\"https:\/\/stats.banpais.hn\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 1076,
       "length": 25,
       "value": "\"https:\/\/stats.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 1140,
       "length": 26,
       "value": "\"https:\/\/stats.soyfri.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 1209,
       "length": 33,
       "value": "\"https:\/\/stats.smartidonline.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 1289,
       "length": 34,
       "value": "\"https:\/\/stats.inmobanking.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 1373,
       "length": 37,
       "value": "\"https:\/\/stats.bancopromerica.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 1449,
       "length": 37,
       "value": "\"https:\/\/stats-gyt.smartidonline.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 1530,
       "length": 27,
       "value": "\"https:\/\/stats.vivepass.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 1606,
       "length": 36,
       "value": "\"https:\/\/stats-bh.smartidonline.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 1694,
       "length": 45,
       "value": "\"https:\/\/stats-promericasv.smartidonline.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 1791,
       "length": 45,
       "value": "\"https:\/\/stats-promericahn.smartidonline.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 1888,
       "length": 45,
       "value": "\"https:\/\/stats-promericani.smartidonline.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 1985,
       "length": 45,
       "value": "\"https:\/\/stats-promericard.smartidonline.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 2073,
       "length": 33,
       "value": "\"https:\/\/stats.smartidonline.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 2220,
       "length": 26,
       "value": "\"https:\/\/bstap.bam.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 2290,
       "length": 31,
       "value": "\"https:\/\/stats.banrural.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 2371,
       "length": 25,
       "value": "\"https:\/\/psapp.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 2441,
       "length": 25,
       "value": "\"https:\/\/stats.bi.com.sv\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 2511,
       "length": 29,
       "value": "\"https:\/\/stats.bibank.com.pa\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 2585,
       "length": 26,
       "value": "\"https:\/\/stats.banpais.hn\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 2654,
       "length": 25,
       "value": "\"https:\/\/stats.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 2718,
       "length": 26,
       "value": "\"https:\/\/stats.soyfri.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 2787,
       "length": 36,
       "value": "\"https:\/\/smartcore.develsystems.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 2870,
       "length": 34,
       "value": "\"https:\/\/stats.inmobanking.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 2954,
       "length": 37,
       "value": "\"https:\/\/stats.bancopromerica.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 3030,
       "length": 37,
       "value": "\"https:\/\/stats-gyt.smartidonline.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 3111,
       "length": 27,
       "value": "\"https:\/\/stats.vivepass.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 3187,
       "length": 36,
       "value": "\"https:\/\/stats-bh.smartidonline.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 3275,
       "length": 45,
       "value": "\"https:\/\/stats-promericasv.smartidonline.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 3372,
       "length": 45,
       "value": "\"https:\/\/stats-promericahn.smartidonline.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 3469,
       "length": 45,
       "value": "\"https:\/\/stats-promericani.smartidonline.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 3566,
       "length": 45,
       "value": "\"https:\/\/stats-promericard.smartidonline.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 3654,
       "length": 33,
       "value": "\"https:\/\/stats.smartidonline.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 3929,
       "length": 20,
       "value": "\"belappgt.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 3952,
       "length": 28,
       "value": "\"bel3-ent4.osapps.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 4040,
       "length": 19,
       "value": "\"bbappgt.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 4062,
       "length": 21,
       "value": "\"bbappqa08.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 4143,
       "length": 17,
       "value": "\"apphn.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 4163,
       "length": 24,
       "value": "\"apphnpruebas.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 4247,
       "length": 17,
       "value": "\"apppa.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 4267,
       "length": 24,
       "value": "\"apppapruebas.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 4351,
       "length": 17,
       "value": "\"appsv.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 4371,
       "length": 24,
       "value": "\"appsvpruebas.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 4449,
       "length": 16,
       "value": "\"app.soyfri.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 4468,
       "length": 16,
       "value": "\"dev.soyfri.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 4546,
       "length": 28,
       "value": "\"gateway.inmobanking.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 4577,
       "length": 36,
       "value": "\"gateway-staging.inmobanking.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 4677,
       "length": 31,
       "value": "\"bhapp.bancohipotecario.com.sv\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 4711,
       "length": 31,
       "value": "\"appqa.bancohipotecario.com.sv\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 4785,
       "length": 18,
       "value": "\"develsystems.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 4840,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 5090,
       "length": 28,
       "value": "\"https:\/\/belappgt.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 5121,
       "length": 36,
       "value": "\"https:\/\/bel3-ent4.osapps.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 5217,
       "length": 27,
       "value": "\"https:\/\/bbappgt.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 5247,
       "length": 29,
       "value": "\"https:\/\/bbappqa08.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 5336,
       "length": 25,
       "value": "\"https:\/\/apphn.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 5364,
       "length": 32,
       "value": "\"https:\/\/apphnpruebas.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 5456,
       "length": 25,
       "value": "\"https:\/\/apppa.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 5484,
       "length": 32,
       "value": "\"https:\/\/apppapruebas.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 5576,
       "length": 25,
       "value": "\"https:\/\/appsv.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 5604,
       "length": 32,
       "value": "\"https:\/\/appsvpruebas.bi.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 5690,
       "length": 24,
       "value": "\"https:\/\/app.soyfri.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 5717,
       "length": 24,
       "value": "\"https:\/\/dev.soyfri.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 5805,
       "length": 39,
       "value": "\"https:\/\/bhapp.bancohipotecario.com.sv\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 5847,
       "length": 39,
       "value": "\"https:\/\/appqa.bancohipotecario.com.sv\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 5929,
       "length": 26,
       "value": "\"https:\/\/develsystems.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 6017,
       "length": 36,
       "value": "\"https:\/\/gateway.inmobanking.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 6056,
       "length": 44,
       "value": "\"https:\/\/gateway-staging.inmobanking.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 6137,
       "length": 6,
       "value": "\"none\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 6228,
       "length": 40,
       "value": "\"https:\/\/dev-info-api.smartidonline.com\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 6534,
       "length": 40,
       "value": "\"https:\/\/info-api.bancopromerica.com.gt\""
     },
     {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Entity\/Clients.swift",
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Extensions\/Entity\/Clients.swift",
       "kind": "StringLiteral",
       "offset": 6611,
       "length": 2,
