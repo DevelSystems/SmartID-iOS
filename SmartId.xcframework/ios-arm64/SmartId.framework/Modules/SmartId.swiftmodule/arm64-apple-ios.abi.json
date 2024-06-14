@@ -9475,7 +9475,7 @@
       "kind": "StringLiteral",
       "offset": 194,
       "length": 7,
-      "value": "\"4.6.6\""
+      "value": "\"4.6.7\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSAError.swift",
@@ -12434,98 +12434,98 @@
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4485,
-      "length": 2,
-      "value": "60"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4552,
-      "length": 2,
-      "value": "85"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4620,
-      "length": 2,
-      "value": "85"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4725,
-      "length": 2,
-      "value": "55"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4817,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4911,
+      "offset": 4473,
       "length": 3,
-      "value": "-16"
+      "value": "-90"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5008,
+      "offset": 4541,
+      "length": 2,
+      "value": "90"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4609,
+      "length": 2,
+      "value": "90"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4792,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5102,
+      "offset": 4884,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4978,
+      "length": 3,
+      "value": "-16"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5155,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5249,
       "length": 2,
       "value": "36"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5198,
+      "offset": 5345,
       "length": 3,
       "value": "-36"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5304,
+      "offset": 5451,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5398,
+      "offset": 5545,
       "length": 3,
       "value": "-30"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5509,
+      "offset": 5656,
       "length": 3,
       "value": "-30"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5579,
+      "offset": 5726,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/ErrorView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5837,
+      "offset": 5984,
       "length": 5,
       "value": "false"
     },
