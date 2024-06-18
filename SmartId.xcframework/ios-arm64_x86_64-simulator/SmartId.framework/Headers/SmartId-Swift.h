@@ -311,11 +311,13 @@ SWIFT_CLASS("_TtC7SmartId8RSAUtils")
 
 SWIFT_CLASS("_TtC7SmartId27TransactionConfirmationView")
 @interface TransactionConfirmationView : UIViewController
+- (void)viewWillAppear:(BOOL)animated;
 - (void)viewDidLoad;
 - (void)loadView;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
+
 
 
 
@@ -642,11 +644,13 @@ SWIFT_CLASS("_TtC7SmartId8RSAUtils")
 
 SWIFT_CLASS("_TtC7SmartId27TransactionConfirmationView")
 @interface TransactionConfirmationView : UIViewController
+- (void)viewWillAppear:(BOOL)animated;
 - (void)viewDidLoad;
 - (void)loadView;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
+
 
 
 
