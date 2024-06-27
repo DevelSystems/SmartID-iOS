@@ -7090,14 +7090,21 @@
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 27456,
+      "offset": 27483,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
       "kind": "BooleanLiteral",
-      "offset": 27507,
+      "offset": 27599,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/UriManagement\/Views\/TransactionConfirmationView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 27664,
       "length": 4,
       "value": "true"
     },
@@ -9493,7 +9500,7 @@
       "kind": "StringLiteral",
       "offset": 194,
       "length": 7,
-      "value": "\"4.6.8\""
+      "value": "\"4.6.9\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSAError.swift",
