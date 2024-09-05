@@ -4480,287 +4480,308 @@
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 1082,
+      "offset": 1023,
+      "length": 17,
+      "value": "\"isSharingScreen\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "kind": "StringLiteral",
+      "offset": 1084,
+      "length": 23,
+      "value": "\"isTeamViewerInstalled\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "kind": "StringLiteral",
+      "offset": 1148,
+      "length": 20,
+      "value": "\"isAnyDeskInstalled\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "kind": "StringLiteral",
+      "offset": 1265,
       "length": 25,
       "value": "\"isMultitaskingSupported\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 1137,
+      "offset": 1320,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 1179,
+      "offset": 1362,
       "length": 12,
       "value": "\"systemName\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 1230,
+      "offset": 1413,
       "length": 15,
       "value": "\"systemVersion\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 1278,
+      "offset": 1461,
       "length": 9,
       "value": "\"version\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 1318,
+      "offset": 1501,
       "length": 7,
       "value": "\"model\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 1365,
+      "offset": 1548,
       "length": 16,
       "value": "\"localizedModel\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 1415,
+      "offset": 1598,
       "length": 10,
       "value": "\"rawModel\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 1470,
+      "offset": 1653,
       "length": 6,
       "value": "\"UUID\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 1513,
+      "offset": 1696,
       "length": 18,
       "value": "\"isDeviceFaceDown\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 1569,
+      "offset": 1752,
       "length": 14,
       "value": "\"batteryLevel\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 1621,
+      "offset": 1804,
       "length": 14,
       "value": "\"batteryState\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 1689,
+      "offset": 1872,
       "length": 30,
       "value": "\"isProximityMonitoringEnabled\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 1759,
+      "offset": 1942,
       "length": 16,
       "value": "\"proximityState\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 1805,
+      "offset": 1988,
       "length": 9,
       "value": "\"version\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 1849,
+      "offset": 2032,
       "length": 14,
       "value": "\"versionBuild\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 1960,
+      "offset": 2143,
       "length": 15,
       "value": "\"interfaceName\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2007,
+      "offset": 2190,
       "length": 8,
       "value": "\"family\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2043,
+      "offset": 2226,
       "length": 4,
       "value": "\"ip\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2079,
+      "offset": 2262,
       "length": 8,
       "value": "\"public\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2118,
+      "offset": 2301,
       "length": 7,
       "value": "\"local\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2204,
+      "offset": 2387,
       "length": 6,
       "value": "\"name\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2243,
+      "offset": 2426,
       "length": 9,
       "value": "\"country\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2282,
+      "offset": 2465,
       "length": 6,
       "value": "\"code\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2321,
+      "offset": 2504,
       "length": 9,
       "value": "\"network\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2366,
+      "offset": 2549,
       "length": 12,
       "value": "\"allowsVoIP\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2460,
+      "offset": 2643,
       "length": 9,
       "value": "\"proxied\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2498,
+      "offset": 2681,
       "length": 5,
       "value": "\"tor\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2580,
+      "offset": 2763,
       "length": 4,
       "value": "\"is\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2624,
+      "offset": 2807,
       "length": 16,
       "value": "\"inTwoTimezones\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2672,
+      "offset": 2855,
       "length": 8,
       "value": "\"region\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2713,
+      "offset": 2896,
       "length": 9,
       "value": "\"country\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2752,
+      "offset": 2935,
       "length": 6,
       "value": "\"city\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2790,
+      "offset": 2973,
       "length": 8,
       "value": "\"postal\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2833,
+      "offset": 3016,
       "length": 11,
       "value": "\"continent\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2878,
+      "offset": 3061,
       "length": 10,
       "value": "\"timezone\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2916,
+      "offset": 3099,
       "length": 4,
       "value": "\"ip\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 2957,
+      "offset": 3140,
       "length": 13,
       "value": "\"coordinates\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 3010,
+      "offset": 3193,
       "length": 16,
       "value": "\"ISOCountryCode\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 3103,
+      "offset": 3286,
       "length": 10,
       "value": "\"remoteIP\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
-      "offset": 3148,
+      "offset": 3331,
       "length": 14,
       "value": "\"certificates\""
     },

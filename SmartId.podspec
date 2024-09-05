@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'SmartId'
-  s.version          = '5.0.4'
+  s.version          = '5.0.5'
   s.summary          = 'SmartId iOS native framework.'
   s.homepage         = 'https://github.com/DevelSystems/SmartID-iOS'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
