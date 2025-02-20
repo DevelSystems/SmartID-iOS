@@ -1,10 +1,12 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
-// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name SmartId
+// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
+// swift-module-flags: -target x86_64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SmartId
+// swift-module-flags-ignorable: -enable-bare-slash-regex
 import CoreLocation
 import CoreTelephony
 import Darwin
 import Foundation
+import KeychainAccess
 import Security
 @_exported import SmartId
 import Swift
@@ -61,12 +63,21 @@ public struct Account : Swift.Codable {
 }
 public typealias Padding = Security.SecPadding
 @_hasMissingDesignatedInitializers final public class SID {
+  final public func setup(window: UIKit.UIWindow?)
   public static let shared: SmartId.SID
   public static func startLocation()
+  public static func startPharming(isProduction: Swift.Bool)
+  public static func start(license: Swift.String, username: Swift.String, isProduction: Swift.Bool)
   public static func setSSLData(_ data: Swift.String)
+  final public func link(channel: Swift.String, session: Swift.String)
+  final public func tracking(channel: Swift.String, session: Swift.String, action: Swift.String, transaction: Swift.String = "", value: Swift.String = "")
+  final public func unlink(channel: Swift.String, session: Swift.String)
   final public func getDevice() -> Swift.String?
-  final public func getDeviceData(isProduction: Swift.Bool) -> SmartId.DeviceDataResponse
-  final public func getRawData(applicationBackendDomain: Swift.String? = "") -> SmartId.RawDataResponse
+  final public func getDeviceInfo(channel: Swift.String, session: Swift.String) -> [Swift.String : Any]
+  final public func getDeviceData() -> SmartId.DeviceDataResponse
+  final public func getRawData() -> SmartId.RawDataResponse
+  final public func securePayment(channel: Swift.String, transactionType: Swift.String = "", amount: Swift.String, values: [Swift.String : Swift.String])
+  final public func createOperation(channel: Swift.String, operation: SmartId.CoreOperation)
   @objc deinit
 }
 public struct Device : Swift.Codable {
