@@ -5,25 +5,15 @@
 import CoreLocation
 import CoreTelephony
 import Darwin
-import DeveloperToolsSupport
 import Foundation
 import KeychainAccess
 import Security
 @_exported import SmartId
 import Swift
-import SwiftUI
 import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class TransactionConfirmationView : UIKit.UIViewController {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillAppear(_ animated: Swift.Bool)
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func loadView()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
-  @objc deinit
-}
 public struct BankAccount : Swift.Codable {
   public let account: Swift.String
   public let bank: Swift.String
@@ -88,8 +78,6 @@ public typealias Padding = Security.SecPadding
   final public func getRawData() -> SmartId.RawDataResponse
   final public func securePayment(channel: Swift.String, transactionType: Swift.String = "", amount: Swift.String, values: [Swift.String : Swift.String])
   final public func createOperation(channel: Swift.String, operation: SmartId.CoreOperation)
-  final public func readToken(from viewController: UIKit.UIViewController, tokenId: Swift.String, isProd: Swift.Bool)
-  final public func handleIncomingURL(_ url: Foundation.URL)
   @objc deinit
 }
 public struct Device : Swift.Codable {
@@ -98,9 +86,6 @@ public struct Device : Swift.Codable {
   public let userAgent: Swift.String?
   public init(smartId: Swift.String, ipAddress: Swift.String? = nil, userAgent: Swift.String? = nil)
   public func encode(to encoder: any Swift.Encoder) throws
-  public init(from decoder: any Swift.Decoder) throws
-}
-public struct GetTransactionResponse : Swift.Decodable {
   public init(from decoder: any Swift.Decoder) throws
 }
 @_hasMissingDesignatedInitializers public class DeviceDataResponse {
@@ -126,30 +111,10 @@ public struct Order : Swift.Codable {
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
-@_hasMissingDesignatedInitializers final public class UriManagement {
-  public static let shared: SmartId.UriManagement
-  final public func getTransaction(getTransactionRequest: SmartId.GetTransactionRequest, getTransactionResponse: @escaping (SmartId.GetTransactionResponse) -> Swift.Void)
-  final public func manageTransaction(manageTransactionRequest: SmartId.ManageTransactionRequest, manageTransactionResponse: @escaping (SmartId.GetTransactionResponse) -> Swift.Void)
-  @objc deinit
-}
 public func MD5(_ input: Swift.String) -> Swift.String
-public struct GetTransactionRequest : Swift.Codable {
-  public init(linkId: Swift.String, smartId: Swift.String, language: Swift.String)
-  public func encode(to encoder: any Swift.Encoder) throws
-  public init(from decoder: any Swift.Decoder) throws
-}
 @_hasMissingDesignatedInitializers public class RawDataResponse {
   public func onSuccess(success: @escaping (Swift.Int, Swift.String) -> Swift.Void) -> SmartId.RawDataResponse
   public func onFailure(failure: @escaping (Swift.Int, Swift.String, Swift.String) -> Swift.Void) -> SmartId.RawDataResponse
   public func start()
-  @objc deinit
-}
-public struct ManageTransactionRequest : Swift.Codable {
-  public init(transactionStatus: Swift.Int, transactionCode: Swift.String, smartId: Swift.String, geolocation: Swift.String, photoB64: Swift.String)
-  public func encode(to encoder: any Swift.Encoder) throws
-  public init(from decoder: any Swift.Decoder) throws
-}
-@objc @_inheritsConvenienceInitializers open class RSAUtils : ObjectiveC.NSObject {
-  @objc override dynamic public init()
   @objc deinit
 }
