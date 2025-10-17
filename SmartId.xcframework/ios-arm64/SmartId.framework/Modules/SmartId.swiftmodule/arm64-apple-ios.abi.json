@@ -4397,7 +4397,7 @@
       "kind": "StringLiteral",
       "offset": 194,
       "length": 7,
-      "value": "\"5.0.1\""
+      "value": "\"5.0.4\""
     },
     {
       "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
