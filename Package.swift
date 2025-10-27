@@ -12,7 +12,7 @@ let package = Package(
             targets: ["SmartId"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/kishikawakatsumi/KeychainAccess", from: "4.2.1"),
+        .package(url: "https://github.com/kishikawakatsumi/KeychainAccess", from: "4.2.2"),
     ],
     targets: [
             .binaryTarget(
