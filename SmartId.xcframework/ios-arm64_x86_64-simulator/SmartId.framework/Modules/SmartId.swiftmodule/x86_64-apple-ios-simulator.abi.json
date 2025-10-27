@@ -3973,1050 +3973,1050 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
       "offset": 276,
       "length": 10,
       "value": "\"\/payment\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
       "offset": 573,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
       "offset": 1696,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurePaymentController.swift",
       "kind": "StringLiteral",
       "offset": 3034,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 195,
       "length": 6,
       "value": "\"POST\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 217,
       "length": 5,
       "value": "\"GET\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 238,
       "length": 5,
       "value": "\"PUT\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 262,
       "length": 8,
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 377,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 442,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "StringLiteral",
       "offset": 511,
       "length": 16,
       "value": "\"Content-Length\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdNetworkRequest.swift",
       "kind": "IntegerLiteral",
       "offset": 736,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartCoreRemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartCoreRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 280,
       "length": 14,
       "value": "\"\/v2\/sid\/core\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdController.swift",
       "kind": "StringLiteral",
       "offset": 1563,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdController.swift",
       "kind": "StringLiteral",
       "offset": 1601,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SmartIdController.swift",
       "kind": "StringLiteral",
       "offset": 3083,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Service\/UserPreferencesService.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Service\/UserPreferencesService.swift",
       "kind": "StringLiteral",
       "offset": 452,
       "length": 14,
       "value": "\"isProduction\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA.swift",
       "kind": "BooleanLiteral",
       "offset": 4731,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/UnlinkRemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/UnlinkRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 273,
       "length": 9,
       "value": "\"\/unlink\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
       "offset": 1867,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Service\/KeychainService.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Service\/KeychainService.swift",
       "kind": "StringLiteral",
       "offset": 258,
       "length": 40,
       "value": "\"udid_\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Service\/KeychainService.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Service\/KeychainService.swift",
       "kind": "StringLiteral",
       "offset": 297,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 926,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 955,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 981,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1013,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1044,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1072,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1103,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1132,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1160,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1188,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1216,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1248,
       "length": 12,
       "value": "\"SmartPhone\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1291,
       "length": 7,
       "value": "\"Apple\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1329,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1365,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 1395,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 1426,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 1461,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 1496,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1528,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1561,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1594,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1630,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1662,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1694,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 1723,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 1757,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "BooleanLiteral",
       "offset": 1787,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1825,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 1849,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1875,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1914,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1951,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 1985,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 2029,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 2070,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 2107,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceDataResponse.swift",
       "kind": "IntegerLiteral",
       "offset": 2349,
       "length": 4,
       "value": "1000"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SdkConfig.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SdkConfig.swift",
       "kind": "StringLiteral",
       "offset": 194,
       "length": 7,
-      "value": "\"5.0.4\""
+      "value": "\"5.0.5\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
       "offset": 482,
       "length": 14,
       "value": "\"isProduction\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
       "offset": 552,
       "length": 45,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
       "offset": 586,
       "length": 1,
       "value": "\"\/s\/app\/api\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
       "offset": 634,
       "length": 49,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
       "offset": 668,
       "length": 1,
       "value": "\"\/s\/app\/api-dev\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
       "offset": 851,
       "length": 14,
       "value": "\"isProduction\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
       "offset": 921,
       "length": 39,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
       "offset": 955,
       "length": 1,
       "value": "\"\/api\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
       "offset": 997,
       "length": 43,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/RemoteController.swift",
       "kind": "StringLiteral",
       "offset": 1031,
       "length": 1,
       "value": "\"\/api-dev\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 365,
       "length": 9,
       "value": "\"version\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 406,
       "length": 8,
       "value": "\"device\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 447,
       "length": 9,
       "value": "\"network\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 485,
       "length": 5,
       "value": "\"ssl\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 523,
       "length": 9,
       "value": "\"address\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 560,
       "length": 4,
       "value": "\"is\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 600,
       "length": 11,
       "value": "\"interface\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 644,
       "length": 9,
       "value": "\"carrier\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 691,
       "length": 14,
       "value": "\"isJailBroken\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 733,
       "length": 4,
       "value": "\"os\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 767,
       "length": 6,
       "value": "\"type\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 801,
       "length": 4,
       "value": "\"ID\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 835,
       "length": 10,
       "value": "\"hashUUID\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 883,
       "length": 14,
       "value": "\"manufacturer\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 931,
       "length": 13,
       "value": "\"geoLocation\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 975,
       "length": 10,
       "value": "\"security\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1023,
       "length": 17,
       "value": "\"isSharingScreen\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1084,
       "length": 23,
       "value": "\"isTeamViewerInstalled\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1148,
       "length": 20,
       "value": "\"isAnyDeskInstalled\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1265,
       "length": 25,
       "value": "\"isMultitaskingSupported\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1320,
       "length": 6,
       "value": "\"name\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1362,
       "length": 12,
       "value": "\"systemName\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1413,
       "length": 15,
       "value": "\"systemVersion\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1461,
       "length": 9,
       "value": "\"version\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1501,
       "length": 7,
       "value": "\"model\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1548,
       "length": 16,
       "value": "\"localizedModel\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1598,
       "length": 10,
       "value": "\"rawModel\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1653,
       "length": 6,
       "value": "\"UUID\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1696,
       "length": 18,
       "value": "\"isDeviceFaceDown\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1752,
       "length": 14,
       "value": "\"batteryLevel\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1804,
       "length": 14,
       "value": "\"batteryState\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1872,
       "length": 30,
       "value": "\"isProximityMonitoringEnabled\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1942,
       "length": 16,
       "value": "\"proximityState\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 1988,
       "length": 9,
       "value": "\"version\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2032,
       "length": 14,
       "value": "\"versionBuild\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2143,
       "length": 15,
       "value": "\"interfaceName\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2190,
       "length": 8,
       "value": "\"family\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2226,
       "length": 4,
       "value": "\"ip\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2262,
       "length": 8,
       "value": "\"public\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2301,
       "length": 7,
       "value": "\"local\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2387,
       "length": 6,
       "value": "\"name\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2426,
       "length": 9,
       "value": "\"country\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2465,
       "length": 6,
       "value": "\"code\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2504,
       "length": 9,
       "value": "\"network\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2549,
       "length": 12,
       "value": "\"allowsVoIP\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2643,
       "length": 9,
       "value": "\"proxied\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2681,
       "length": 5,
       "value": "\"tor\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2763,
       "length": 4,
       "value": "\"is\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2807,
       "length": 16,
       "value": "\"inTwoTimezones\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2855,
       "length": 8,
       "value": "\"region\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2896,
       "length": 9,
       "value": "\"country\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2935,
       "length": 6,
       "value": "\"city\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 2973,
       "length": 8,
       "value": "\"postal\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 3016,
       "length": 11,
       "value": "\"continent\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 3061,
       "length": 10,
       "value": "\"timezone\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 3099,
       "length": 4,
       "value": "\"ip\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 3140,
       "length": 13,
       "value": "\"coordinates\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 3193,
       "length": 16,
       "value": "\"ISOCountryCode\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 3286,
       "length": 10,
       "value": "\"remoteIP\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/DeviceInfoController.swift",
       "kind": "StringLiteral",
       "offset": 3331,
       "length": 14,
       "value": "\"certificates\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/LinkRemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/LinkRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 269,
       "length": 7,
       "value": "\"\/link\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/SwiftHash\/MD5.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/SwiftHash\/MD5.swift",
       "kind": "IntegerLiteral",
       "offset": 8947,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/Asn1Parser.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/Asn1Parser.swift",
       "kind": "IntegerLiteral",
       "offset": 380,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 271,
       "length": 11,
       "value": "\"\/tracking\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 497,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 517,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 1133,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 1153,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 1959,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Remote\/TrackRemoteController.swift",
       "kind": "StringLiteral",
       "offset": 1979,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/PublicKey.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/PublicKey.swift",
       "kind": "StringLiteral",
       "offset": 2213,
       "length": 57,
       "value": "\"(-----BEGIN PUBLIC KEY-----.+?-----END PUBLIC KEY-----)\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/NetUtils\/Interface.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/NetUtils\/Interface.swift",
       "kind": "IntegerLiteral",
       "offset": 729,
       "length": 4,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/NetUtils\/Interface.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/NetUtils\/Interface.swift",
       "kind": "IntegerLiteral",
       "offset": 792,
       "length": 5,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/RawDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/RawDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 420,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/Controller\/RawDataResponse.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/Controller\/RawDataResponse.swift",
       "kind": "StringLiteral",
       "offset": 689,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "IntegerLiteral",
       "offset": 7651,
       "length": 6,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "IntegerLiteral",
       "offset": 7671,
       "length": 6,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "IntegerLiteral",
       "offset": 7691,
       "length": 6,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/jramirez\/iosProjects\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
+      "filePath": "\/Users\/alejandro\/proyects\/ios\/DSAnalytics.iOSSDK\/SmartId\/SwiftyRSA\/SwiftyRSA+ObjC.swift",
       "kind": "IntegerLiteral",
       "offset": 7711,
       "length": 6,
