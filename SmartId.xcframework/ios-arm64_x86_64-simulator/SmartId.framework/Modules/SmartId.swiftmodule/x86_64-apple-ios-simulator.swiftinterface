@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.1.2 effective-5.10 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
+// swift-compiler-version: Apple Swift version 6.2.3 effective-5.10 (swiftlang-6.2.3.3.21 clang-1700.6.3.2)
 // swift-module-flags: -target x86_64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name SmartId
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface -interface-compiler-version 6.1.2
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.3
 import CoreLocation
 import CoreTelephony
 import Darwin
@@ -33,7 +33,9 @@ public struct CoreOperation : Swift.Codable {
   public let creditCard: SmartId.CreditCard?
   public let order: SmartId.Order?
   public let timestamp: Swift.String?
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(channelId: Swift.String, device: SmartId.Device? = nil, transaction: SmartId.Transaction? = nil, account: SmartId.Account? = nil, accountTo: SmartId.Account? = nil, debitFrom: SmartId.BankAccount? = nil, creditTo: SmartId.BankAccount? = nil, creditCard: SmartId.CreditCard? = nil, order: SmartId.Order? = nil, timestamp: Swift.String? = nil)
+  #endif
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
@@ -44,7 +46,9 @@ public struct Transaction : Swift.Codable {
   public let reference: Swift.String
   public let date: Swift.String?
   public let details: [Swift.String : Swift.String]
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(category: Swift.String, type: Swift.String, description: Swift.String, reference: Swift.String, date: Swift.String? = nil, details: [Swift.String : Swift.String])
+  #endif
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
@@ -66,16 +70,22 @@ public typealias Padding = Security.SecPadding
   public static let shared: SmartId.SID
   public static func startLocation()
   public static func setSSLData(_ data: Swift.String)
+  #if compiler(>=5.3) && $NonescapableTypes
   final public func getDevice() -> Swift.String?
+  #endif
   final public func getDeviceData(isProduction: Swift.Bool) -> SmartId.DeviceDataResponse
+  #if compiler(>=5.3) && $NonescapableTypes
   final public func getRawData(applicationBackendDomain: Swift.String? = "") -> SmartId.RawDataResponse
+  #endif
   @objc deinit
 }
 public struct Device : Swift.Codable {
   public let smartId: Swift.String
   public let ipAddress: Swift.String?
   public let userAgent: Swift.String?
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(smartId: Swift.String, ipAddress: Swift.String? = nil, userAgent: Swift.String? = nil)
+  #endif
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
