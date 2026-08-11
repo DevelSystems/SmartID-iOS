@@ -11,9 +11,7 @@ let package = Package(
             name: "SmartId",
             targets: ["SmartId"]),
     ],
-    dependencies: [
-        .package(url: "https://github.com/kishikawakatsumi/KeychainAccess", from: "4.2.2"),
-    ],
+    dependencies: [],
     targets: [
             .binaryTarget(
                 name: "SmartId",
