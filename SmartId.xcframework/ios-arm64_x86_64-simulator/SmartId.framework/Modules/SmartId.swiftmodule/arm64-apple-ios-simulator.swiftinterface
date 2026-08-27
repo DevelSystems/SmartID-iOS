@@ -1,12 +1,14 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 6.2.1 effective-5.10 (swiftlang-6.2.1.4.8 clang-1700.4.4.1)
-// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name SmartId
+// swift-module-flags: -target arm64-apple-ios13.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name SmartId
 // swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.1
+import CommonCrypto
 import CoreLocation
 import CoreTelephony
+import CryptoKit
 import Darwin
 import Foundation
-import KeychainAccess
+import LocalAuthentication
 import Security
 @_exported import SmartId
 import Swift
@@ -14,6 +16,47 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+import os.log
+import os
+public struct SecurityReport : Swift.Codable {
+  public let smartId: Swift.String
+  public let timestamp: Swift.String
+  public let reasons: Swift.String
+  public let services: Swift.String
+  public let package: Swift.String
+  public let signatures: Swift.String
+  public let channelId: Swift.Int
+  public let cData: SmartId.CData
+  public let dData: SmartId.DData
+  public init(smartId: Swift.String, timestamp: Swift.String, reasons: Swift.String = "", services: Swift.String = "", package: Swift.String, signatures: Swift.String, channelId: Swift.Int, cData: SmartId.CData, dData: SmartId.DData)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct CData : Swift.Codable {
+  public let remoteIP: Swift.String
+  public let certificates: [SmartId.SecurityCertificate]
+  public init(remoteIP: Swift.String, certificates: [SmartId.SecurityCertificate])
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct SecurityCertificate : Swift.Codable {
+  public let issuer: Swift.String
+  public let serial: Swift.String
+  public let subject: Swift.String
+  public init(issuer: Swift.String, serial: Swift.String, subject: Swift.String)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct DData : Swift.Codable {
+  public let brand: Swift.String
+  public let model: Swift.String
+  public let manufacturer: Swift.String
+  public let osName: Swift.String
+  public let osVersion: Swift.String
+  public init(brand: Swift.String, model: Swift.String, manufacturer: Swift.String, osName: Swift.String, osVersion: Swift.String)
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
 public struct BankAccount : Swift.Codable {
   public let account: Swift.String
   public let bank: Swift.String
@@ -75,8 +118,13 @@ public typealias Padding = Security.SecPadding
   #endif
   final public func getDeviceData(isProduction: Swift.Bool) -> SmartId.DeviceDataResponse
   #if compiler(>=5.3) && $NonescapableTypes
-  final public func getRawData(applicationBackendDomain: Swift.String? = "") -> SmartId.RawDataResponse
+  final public func getRawData(applicationBackendDomain: Swift.String? = nil, smartIdDomain: Swift.String? = nil) -> SmartId.RawDataResponse
   #endif
+  final public func getSmartId() -> Swift.String
+  #if compiler(>=5.3) && $NonescapableTypes
+  final public func startSecurityChecks(license: Swift.String, channelId: Swift.Int, host: Swift.String, applicationBackendDomain: Swift.String? = nil, intervalSeconds: Foundation.TimeInterval = 60, onCloseApp: (() -> Swift.Void)? = nil, onSecurityStatus: ((SmartId.SecurityVerdict) -> Swift.Void)? = nil)
+  #endif
+  final public func stopSecurityChecks()
   @objc deinit
 }
 public struct Device : Swift.Codable {
@@ -119,3 +167,23 @@ public func MD5(_ input: Swift.String) -> Swift.String
   public func start()
   @objc deinit
 }
+public struct SecurityVerdict {
+  public let shouldClose: Swift.Bool
+  public let reasons: [Swift.Int]
+}
+public enum SecurityReasonCode : Swift.Int {
+  case malware
+  case root
+  case sslPinning
+  case pharming
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init?(rawValue: Swift.Int)
+  #endif
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+extension SmartId.SecurityReasonCode : Swift.Equatable {}
+extension SmartId.SecurityReasonCode : Swift.Hashable {}
+extension SmartId.SecurityReasonCode : Swift.RawRepresentable {}
