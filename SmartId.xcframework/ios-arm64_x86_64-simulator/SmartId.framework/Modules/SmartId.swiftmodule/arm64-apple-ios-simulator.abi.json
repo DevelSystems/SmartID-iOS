@@ -5363,6 +5363,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SmartId",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "CoreTelephony",
         "printedName": "CoreTelephony",
         "declKind": "Import",
@@ -9343,7 +9353,7 @@
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "IntegerLiteral",
-      "offset": 4130,
+      "offset": 4631,
       "length": 2,
       "value": "60"
     },
@@ -9630,9 +9640,9 @@
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SdkConfig.swift",
       "kind": "StringLiteral",
-      "offset": 194,
+      "offset": 938,
       "length": 7,
-      "value": "\"5.1.0\""
+      "value": "\"5.2.2\""
     },
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SecurityChecksController.swift",
@@ -10247,111 +10257,111 @@
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurityReportRemoteController.swift",
       "kind": "BooleanLiteral",
       "offset": 477,
-      "length": 5,
-      "value": "false"
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurityReportRemoteController.swift",
       "kind": "Array",
-      "offset": 720,
+      "offset": 719,
       "length": 148,
       "value": "[\"smartId\", \"timestamp\", \"reasons\", \"services\", \"package\", \"signatures\", \"channelId\", \"cData\", \"dData\", \"nonce\", \"key\", \"iv\"]"
     },
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurityReportRemoteController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1138,
+      "offset": 1137,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurityReportRemoteController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1176,
+      "offset": 1175,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurityReportRemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 1401,
+      "offset": 1400,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurityReportRemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 1406,
+      "offset": 1405,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurityReportRemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 1416,
+      "offset": 1415,
       "length": 3,
       "value": "\"|\""
     },
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurityReportRemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 1535,
+      "offset": 1534,
       "length": 18,
       "value": "\"\/security-report\""
     },
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurityReportRemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 9750,
+      "offset": 9749,
       "length": 26,
       "value": "\"com.develsystems.SmartId\""
     },
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurityReportRemoteController.swift",
       "kind": "StringLiteral",
-      "offset": 9788,
+      "offset": 9787,
       "length": 16,
       "value": "\"SecurityReport\""
     },
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurityReportRemoteController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12085,
+      "offset": 12084,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurityReportRemoteController.swift",
       "kind": "Array",
-      "offset": 12109,
+      "offset": 12108,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurityReportRemoteController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12396,
+      "offset": 12395,
       "length": 5,
       "value": "20051"
     },
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurityReportRemoteController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12418,
+      "offset": 12417,
       "length": 5,
       "value": "20052"
     },
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurityReportRemoteController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12446,
+      "offset": 12445,
       "length": 5,
       "value": "20054"
     },
     {
       "filePath": "\/Users\/alejandro\/proyects\/multiproject\/SDKSmartIDSuite\/FP\/DSAnalytics.iOSSDK\/SmartId\/Remote\/SecurityReportRemoteController.swift",
       "kind": "IntegerLiteral",
-      "offset": 12472,
+      "offset": 12471,
       "length": 5,
       "value": "20055"
     }

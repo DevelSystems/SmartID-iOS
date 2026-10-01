@@ -5,7 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "SmartId",
-    platforms: [.iOS(.v10)],
+    platforms: [.iOS(.v13)],
     products: [
         .library(
             name: "SmartId",

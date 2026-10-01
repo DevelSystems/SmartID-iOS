@@ -1,6 +1,7 @@
 SmartId
 ===============
 
+Version 5.2.2 - Requires iOS 13.0+
 
 Install into your project:
 
@@ -11,6 +12,12 @@ Install into your project:
 https://github.com/DevelSystems/SmartID-iOS
 ```
 
+- Or using CocoaPods:
+
+```ruby
+pod 'SmartId', :git => 'https://github.com/DevelSystems/SmartID-iOS.git', :tag => '5.2.2'
+```
+
 ## Usage 
 
 You can now import SmartId framework into your files.
@@ -19,21 +26,41 @@ You can now import SmartId framework into your files.
 
 To initializate location services add this line to your AppDelegate `func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool` method.
 
-```bash
+```swift
 SID.startLocation()
 ```
 
-## Initialize pharming detection
+## Get raw data
 
-To initializate pharming detection, add this line to your AppDelegate `func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool` method.
+To get the encoded device data.
 
-```bash
-SID.startPharming(isProduction: isProduction)
+```swift
+SID.shared.getRawData(applicationBackendDomain: applicationBackendDomain,
+                      smartIdDomain: smartIdDomain)
+    .onSuccess { time, data in
+        // encoded device data
+    }
+    .onFailure { time, message, errorCode in
+        // handle error
+    }
+    .start()
 ```
 
-## Update
+## Security checks
 
-- If you're updating from previous version, you need to delete all the old references from Project configuration and the slices
-script as well.
+To start the periodic security checks.
 
-- SmartId class was renamed to SID, so you need to update the references on your code base. 
+```swift
+SID.shared.startSecurityChecks(license: license,
+                               channelId: channelId,
+                               host: host,
+                               onCloseApp: {
+                                   // close the app
+                               })
+```
+
+To stop them:
+
+```swift
+SID.shared.stopSecurityChecks()
+```
