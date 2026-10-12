@@ -5,15 +5,13 @@ import PackageDescription
 
 let package = Package(
     name: "SmartId",
-    platforms: [.iOS(.v10)],
+    platforms: [.iOS(.v15)],
     products: [
         .library(
             name: "SmartId",
             targets: ["SmartId"]),
     ],
-    dependencies: [
-        .package(url: "https://github.com/kishikawakatsumi/KeychainAccess", from: "4.2.1"),
-    ],
+    dependencies: [    ],
     targets: [
             .binaryTarget(
                 name: "SmartId",
